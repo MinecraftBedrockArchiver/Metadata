@@ -1,0 +1,365 @@
+{
+  "1.17.0.2": {
+    "Version": "1.17.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.2.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "eb786141-f2e5-4a3f-b287-902d1389f266"
+        ]
+      }
+    }
+  },
+  "1.17.10.23": {
+    "Version": "1.17.10.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.1023.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "4ca2e1c9-1120-4a41-b3b1-bb768264131e",
+          "4754df0d-00f9-4571-9a01-639bdd037e1c"
+        ]
+      }
+    }
+  },
+  "1.17.10.4": {
+    "Version": "1.17.10.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.1004.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "109c67a5-fda0-4583-99dd-6b5814911bf6"
+        ]
+      }
+    }
+  },
+  "1.17.11.1": {
+    "Version": "1.17.11.1",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.1101.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "d8f99b75-842f-4387-95e4-c057b61d392f"
+        ]
+      }
+    }
+  },
+  "1.17.2.1": {
+    "Version": "1.17.2.1",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.201.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "45279a6b-d9b0-4ce0-bf03-611603ea8b5e"
+        ]
+      }
+    }
+  },
+  "1.17.20.20": {
+    "Version": "1.17.20.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.2020.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "af8ebeb9-2a15-4d7d-a243-e51c641cc46c"
+        ]
+      }
+    }
+  },
+  "1.17.20.21": {
+    "Version": "1.17.20.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.2021.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "c1f4294a-abd7-4655-b6db-dcba5f1f4d11",
+          "50ae0b17-940e-4570-8d27-eacb80323eed",
+          "75cb90c0-a3a4-4d97-9cf8-d3f2d654faaa"
+        ]
+      }
+    }
+  },
+  "1.17.20.22": {
+    "Version": "1.17.20.22",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.2022.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "ac6f58f7-aa69-4088-b1d9-44f453403f71"
+        ]
+      }
+    }
+  },
+  "1.17.20.23": {
+    "Version": "1.17.20.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.2023.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "119851c6-950a-42c0-b81d-38328bb452aa"
+        ]
+      }
+    }
+  },
+  "1.17.30.20": {
+    "Version": "1.17.30.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3020.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "b9433a52-40b5-40db-8b6a-01fd203b157b",
+          "6daaa961-8ad2-473b-b41e-daf1e4b6c893",
+          "4556b38a-dd26-4bd4-9779-2bcf5f319462"
+        ]
+      }
+    }
+  },
+  "1.17.30.21": {
+    "Version": "1.17.30.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3021.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "88181680-69b3-41e8-89a2-729ca1564ab1"
+        ]
+      }
+    }
+  },
+  "1.17.30.22": {
+    "Version": "1.17.30.22",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3022.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "bf67cd9b-8abe-45d3-802b-c5a486fe7311"
+        ]
+      }
+    }
+  },
+  "1.17.30.23": {
+    "Version": "1.17.30.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3023.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "6428dae9-ba81-49f0-9189-7e38971d77e0",
+          "94bed8c4-f3bd-4b75-be13-4eba2c9a9278"
+        ]
+      }
+    }
+  },
+  "1.17.30.24": {
+    "Version": "1.17.30.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3024.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "31ca6866-967b-4509-8683-27e674220c69"
+        ]
+      }
+    }
+  },
+  "1.17.30.25": {
+    "Version": "1.17.30.25",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3025.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "143c8eb8-9970-4e52-a7c1-1f593bebffd3",
+          "6dc6d0e2-f756-4b32-8732-36e6803c4fe8"
+        ]
+      }
+    }
+  },
+  "1.17.30.4": {
+    "Version": "1.17.30.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3004.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "a1160ce0-29f6-4f2f-a1b1-ed8a6f4b89e6",
+          "3750dbaa-8764-4fed-b6aa-92b07997b051"
+        ]
+      }
+    }
+  },
+  "1.17.32.2": {
+    "Version": "1.17.32.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3202.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "8a6e8e4b-c89b-4334-9713-db8be2bf4f13"
+        ]
+      }
+    }
+  },
+  "1.17.34.2": {
+    "Version": "1.17.34.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.3402.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "70ace0f4-b53f-446d-bb1c-991ba4288a79"
+        ]
+      }
+    }
+  },
+  "1.17.40.20": {
+    "Version": "1.17.40.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.4020.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "dc449ed2-113b-4202-98f5-a9adf4e80148",
+          "4d11a4b8-37da-4900-94e6-aa3bab6d8463"
+        ]
+      }
+    }
+  },
+  "1.17.40.21": {
+    "Version": "1.17.40.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.4021.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "7b0f0c74-d992-4a05-89c4-b5a9efb6c1d8"
+        ]
+      }
+    }
+  },
+  "1.17.40.23": {
+    "Version": "1.17.40.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.4023.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "baa12cff-18ce-4b44-8383-b0283dbd9927"
+        ]
+      }
+    }
+  },
+  "1.17.40.6": {
+    "Version": "1.17.40.6",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.4006.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "a4240a68-07eb-45c0-b0d1-a4522224ff1e"
+        ]
+      }
+    }
+  },
+  "1.17.41.1": {
+    "Version": "1.17.41.1",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.17.4101.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "8d72cb21-01a2-4128-9ada-000072fa1af2"
+        ]
+      }
+    }
+  },
+  "1.18.0.20": {
+    "Version": "1.18.0.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.20.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "56fa6574-1c98-4062-8e41-65ed79bf4d6d"
+        ]
+      }
+    }
+  },
+  "1.18.0.21": {
+    "Version": "1.18.0.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.21.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "a98e5cfb-7671-4a36-a25e-548c4cb2330a"
+        ]
+      }
+    }
+  },
+  "1.18.0.22": {
+    "Version": "1.18.0.22",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.22.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "b953a7ca-e04c-463c-980a-0aafc716a73c"
+        ]
+      }
+    }
+  },
+  "1.18.0.24": {
+    "Version": "1.18.0.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.24.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "81aff2ff-7203-4993-a6f8-60df586c00b0"
+        ]
+      }
+    }
+  },
+  "1.18.0.25": {
+    "Version": "1.18.0.25",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.25.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "e3b93df7-6b95-49e8-b3c4-430cfc1afab5"
+        ]
+      }
+    }
+  },
+  "1.18.10.4": {
+    "Version": "1.18.10.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.1004.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "5602e577-aa3e-47fe-9c20-dea3b53d323c"
+        ]
+      }
+    }
+  },
+  "1.18.2.3": {
+    "Version": "1.18.2.3",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.203.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "21294887-feb4-4ed2-bc56-c53d7d201958",
+          "cc98988c-819b-4dd4-8329-e6cd3de0277d"
+        ]
+      }
+    }
+  },
+  "1.18.20.23": {
+    "Version": "1.18.20.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.2023.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "52d74f86-68c7-4033-b4e5-b4ae282a3cfe"
+        ]
+      }
+    }
+  },
+  "1.18.20.25": {
+    "Version": "1.18.20.25",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.2025.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "f8ecb6e3-4878-45a7-a623-f4aeb491b9f3",
+          "3b3b304d-512a-415e-82fa-7695c4ecdc31"
+        ]
+      }
+    }
+  }
+}

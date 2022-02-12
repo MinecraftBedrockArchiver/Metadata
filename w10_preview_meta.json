@@ -1,0 +1,19 @@
+{
+  "1.18.20.26": {
+    "Version": "1.18.20.26",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.18.2026.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "012d3665-b5e8-4f35-97f3-94edc3efa311"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.18.2026.0_x86__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "3ba2b906-54e0-485e-a76a-0de68f6c893f"
+        ]
+      }
+    }
+  }
+}
