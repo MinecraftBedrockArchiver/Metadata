@@ -3370,7 +3370,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.21.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "ec1d14a2-e181-4146-b7e8-6f6466aabc74"
+          "ec1d14a2-e181-4146-b7e8-6f6466aabc74",
+          "3704589a-e3c6-47b4-bf46-dee66ffee575"
         ]
       },
       "x86": {
