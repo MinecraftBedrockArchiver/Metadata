@@ -327,6 +327,17 @@
       }
     }
   },
+  "1.18.12.1": {
+    "Version": "1.18.12.1",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.1201.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "2e0e96b5-a7f5-4d92-962a-68085571667b"
+        ]
+      }
+    }
+  },
   "1.18.2.3": {
     "Version": "1.18.2.3",
     "Archs": {
@@ -356,6 +367,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWPConsole_1.18.2025.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "2eb3b18f-4daf-4a00-bd1d-1751e24073a6",
           "2485c579-8ecf-4df2-a69b-9eceb7698040",
           "8504ed21-458e-49fa-8b30-48bdcd24e35e",
           "f8ecb6e3-4878-45a7-a623-f4aeb491b9f3",
