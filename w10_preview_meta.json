@@ -15,5 +15,22 @@
         ]
       }
     }
+  },
+  "1.18.20.28": {
+    "Version": "1.18.20.28",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.18.2028.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "d30fcbb2-4fde-4bb5-84c1-abb0dd549188"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.18.2028.0_x86__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "ea3d5f66-855f-4071-9833-9865f50d93d4"
+        ]
+      }
+    }
   }
 }
