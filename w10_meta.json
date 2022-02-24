@@ -3946,6 +3946,23 @@
       }
     }
   },
+  "1.18.20.29": {
+    "Version": "1.18.20.29",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.18.2029.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "37996955-b602-4697-962b-9825ebf2686e"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.18.2029.0_x86__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "ea0b4ca6-1480-4cc1-b0c0-2cb01a542cf8"
+        ]
+      }
+    }
+  },
   "1.2.10.2": {
     "Version": "1.2.10.2",
     "Archs": {
