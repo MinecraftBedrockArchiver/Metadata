@@ -3952,13 +3952,15 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.2029.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "37996955-b602-4697-962b-9825ebf2686e"
+          "37996955-b602-4697-962b-9825ebf2686e",
+          "ecfb29b0-b745-4ee7-9c59-ec66c5a27788"
         ]
       },
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.18.2029.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "ea0b4ca6-1480-4cc1-b0c0-2cb01a542cf8"
+          "ea0b4ca6-1480-4cc1-b0c0-2cb01a542cf8",
+          "ac0cf6bf-5377-466d-887f-c0dbc8992eb1"
         ]
       }
     }
