@@ -441,6 +441,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWPConsole_1.18.1201.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "cf7e594d-77ea-46d1-a472-55b96edab4c2",
           "f84c7a05-8bea-4bab-b73c-eb4db37469e5",
           "9c368d80-0fee-4032-bd7b-e27a2fc518ff",
           "89fd0c4a-3c70-45c7-b272-e5537aabaef4",
@@ -542,6 +543,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWPConsole_1.18.3022.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "2e03c659-b84f-490c-a847-aef838bcec4d",
           "14b8eaa0-5b54-4b41-b379-b6cb6bcad9ad",
           "86599357-cad1-43d5-b913-1f8e2a81a8bc",
           "8138db37-0310-4cad-b9d3-15f8b142e7a0",
