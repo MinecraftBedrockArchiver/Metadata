@@ -544,6 +544,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWPConsole_1.18.3022.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "611a863f-fec5-465a-a575-ecdef01b77a1",
           "757eeed9-3987-4b5f-9167-e15a8f70f684",
           "2e03c659-b84f-490c-a847-aef838bcec4d",
           "14b8eaa0-5b54-4b41-b379-b6cb6bcad9ad",
