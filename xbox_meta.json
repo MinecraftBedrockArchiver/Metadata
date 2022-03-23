@@ -568,5 +568,16 @@
         ]
       }
     }
+  },
+  "1.18.30.28": {
+    "Version": "1.18.30.28",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.3028.0_x64__8wekyb3d8bbwe.Appx",
+        "UpdateIds": [
+          "c0ab75a8-e6af-47bd-b956-ecbec3e5d455"
+        ]
+      }
+    }
   }
 }
