@@ -3729,8 +3729,8 @@
       "arm": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_arm__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "20517c63-8222-4108-8c65-98d088e7c640",
           "c88e498e-d408-458a-867a-a84e8e46cb67",
+          "20517c63-8222-4108-8c65-98d088e7c640",
           "6e1292b2-95b7-4a53-9cb8-62b7a32639d8",
           "1ac83337-1b34-4f5d-8daa-369e40b75574",
           "1fc332d3-9935-4e0a-b7f7-6cef702d8110",
@@ -3751,8 +3751,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "1d75a5c7-a4b9-48df-b4ff-71ea9b55e4a4",
           "65aa81f2-2b29-471a-9101-dc252ecda0d9",
+          "1d75a5c7-a4b9-48df-b4ff-71ea9b55e4a4",
           "dbc0ce52-a23d-4755-ba65-192746d890d4",
           "10404d20-a12c-4469-9eda-f76c835c820f",
           "532ed375-c6f1-4840-9280-c604b2d0a553",
@@ -3773,8 +3773,8 @@
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "036643c5-e877-43c8-93ad-285fbe314d87",
           "2560a5ad-f653-4c51-9f23-73ca059a903a",
+          "036643c5-e877-43c8-93ad-285fbe314d87",
           "73dc4446-6dde-4547-a952-9ca785667516",
           "e3d6eb57-89ad-462a-93f1-5c6b64fa711d",
           "ea5206cf-4a5f-40b9-a710-135cba418813",
@@ -4076,8 +4076,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.3028.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "babde149-49a9-4308-8755-daef488378c4",
           "a19335d3-8078-445f-8204-3bfd1b08d6aa",
+          "babde149-49a9-4308-8755-daef488378c4",
           "a6c8281c-b654-4643-b2d2-ca31a195ee8a",
           "679ef506-9651-4782-9de6-c04114991c29",
           "8103b0bd-ebe7-4f89-828c-c311a7ec8ec0",
@@ -4094,8 +4094,8 @@
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.18.3028.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "2a77150b-e612-4e3c-a18e-9d88251cdb75",
           "9e6ffe16-23fd-4b7c-b9b2-dbe32a11ad89",
+          "2a77150b-e612-4e3c-a18e-9d88251cdb75",
           "0c9b264f-2888-4b62-93c5-545819a8e855",
           "def2f987-8da4-431e-87d1-86a40e1c1170",
           "fb8ae313-c2fd-4edf-8f16-60647c8f64b9",
