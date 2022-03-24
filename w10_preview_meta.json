@@ -119,15 +119,15 @@
       "x64": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.18.3029.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "fd7cc6b0-aadf-48c4-8487-185cdcd0bea0",
-          "802748bf-8b7c-4682-b296-a35db4547ee4"
+          "802748bf-8b7c-4682-b296-a35db4547ee4",
+          "fd7cc6b0-aadf-48c4-8487-185cdcd0bea0"
         ]
       },
       "x86": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.18.3029.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
-          "9ecc11f0-32cd-4dc4-9e90-a870d5452d50",
-          "5f390e4f-a63b-4ee4-9485-42c41161031a"
+          "5f390e4f-a63b-4ee4-9485-42c41161031a",
+          "9ecc11f0-32cd-4dc4-9e90-a870d5452d50"
         ]
       }
     }
