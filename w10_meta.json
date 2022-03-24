@@ -3729,6 +3729,7 @@
       "arm": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_arm__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "bb8cb7af-c143-4f88-b1fd-be2c519ca242",
           "c88e498e-d408-458a-867a-a84e8e46cb67",
           "20517c63-8222-4108-8c65-98d088e7c640",
           "6e1292b2-95b7-4a53-9cb8-62b7a32639d8",
@@ -3751,6 +3752,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "95e8b563-6b3b-420b-bcc0-ae1b5a7449ec",
           "65aa81f2-2b29-471a-9101-dc252ecda0d9",
           "1d75a5c7-a4b9-48df-b4ff-71ea9b55e4a4",
           "dbc0ce52-a23d-4755-ba65-192746d890d4",
@@ -3773,6 +3775,7 @@
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.18.1201.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "e1f754f2-a447-4656-8ae5-fb9d88842f58",
           "2560a5ad-f653-4c51-9f23-73ca059a903a",
           "036643c5-e877-43c8-93ad-285fbe314d87",
           "73dc4446-6dde-4547-a952-9ca785667516",
@@ -4076,6 +4079,7 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.18.3028.0_x64__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "a946332a-8ed8-4ee5-97b5-93fff4a8c12c",
           "a19335d3-8078-445f-8204-3bfd1b08d6aa",
           "babde149-49a9-4308-8755-daef488378c4",
           "a6c8281c-b654-4643-b2d2-ca31a195ee8a",
@@ -4094,6 +4098,7 @@
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.18.3028.0_x86__8wekyb3d8bbwe.Appx",
         "UpdateIds": [
+          "2276e4be-73e6-42dc-b325-355bd474ed71",
           "9e6ffe16-23fd-4b7c-b9b2-dbe32a11ad89",
           "2a77150b-e612-4e3c-a18e-9d88251cdb75",
           "0c9b264f-2888-4b62-93c5-545819a8e855",
