@@ -860,6 +860,27 @@
       }
     }
   },
+  "1.7.0.9": {
+    "Version": "1.7.0.9",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.7.9.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "389596ccbe28fd4e3a9225f66cc140da",
+          "SHA256": "90342773b594b4dc0fc51daa744da8001de8c754afe515e502b479fc4551ad08"
+        },
+        "UpdateIds": []
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.7.9.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "ffd61fbc539e7900b2baaa89aeaf9735",
+          "SHA256": "ac6a9d3dfdea605e3c9c345182a8ecf7bd31faf7459cd18eca781553bf6581da"
+        },
+        "UpdateIds": []
+      }
+    }
+  },
   "1.7.0.13": {
     "Version": "1.7.0.13",
     "Archs": {
