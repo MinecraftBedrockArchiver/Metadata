@@ -6573,7 +6573,7 @@
     "Version": "1.15.0.53",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.15.0.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.15.0.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "073fb1254b064af721b4f3281b3545a5",
           "SHA256": "703df682fc26c0cd5026360b2c62e0186252c64904a5d37f089bca4d19e9a224"
@@ -6598,7 +6598,7 @@
     "Version": "1.15.0.54",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.15.0.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.15.0.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "2b0834292ad34a6bd2d93700a37bea6b",
           "SHA256": "6075d32aaa29a383fd95773e8d2d579ce7004548dd716b2a77de5ef39493e398"
@@ -6623,7 +6623,7 @@
     "Version": "1.15.0.55",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.15.0.55-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.15.0.55-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "68953c3a9898ee2384fb8fff26e166be",
           "SHA256": "26fc70bdfb3fe24971bcaa42b5e0b044a6d5732be743ee8451b29ef434d56271"
@@ -6648,7 +6648,7 @@
     "Version": "1.15.0.56",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.15.0.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.15.0.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "8d73c7a264648e0bcb7eb50319debab1",
           "SHA256": "62f2a44503e18a5ebacd375e64daee6a308b791b0d00b093ddd15788307ea04d"
@@ -6683,7 +6683,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.2-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.2-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "8be06765ea13d55016c0e10e5f3750cb",
           "SHA256": "51262b1dfbb9f1ba535dfe3db0e8fd172a2ffb604220e3367543e7ce653ac235"
@@ -6703,7 +6703,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.2-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.2-x86_64.apk",
         "Hashes": {
           "MD5": "4bc318d19c4d7e3cddc2d6f2c1890a1f",
           "SHA256": "14f16ab085992cc1eb8331c6b0f804adaa72813d5be65830fe8e3771961c86d7"
@@ -6718,7 +6718,7 @@
     "Version": "1.16.0.51",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "82679b6adcb46906fadd9adfdb96790e",
           "SHA256": "38a974c1ee8fc667ba43593fb2ae38c5674178713ee8039831025ab2394c0d53"
@@ -6743,7 +6743,7 @@
     "Version": "1.16.0.52",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "d0203eed872702b5fd1970e59734ab99",
           "SHA256": "e4f48e389b388e4d850cc891408cd995630cf1024af389da01ccf84dff4a0c9a"
@@ -6768,7 +6768,7 @@
     "Version": "1.16.0.53",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "d3647f034d3b058c32c02a3fd8c59e04",
           "SHA256": "2cacb3eadb1f2141cf9e5b79615163b54688c8fe56f5909f834e7e2a9f527656"
@@ -6793,7 +6793,7 @@
     "Version": "1.16.0.54",
     "Archs": {
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "2d0686a4c543c2a7435aafa2bd8f156d",
           "SHA256": "2df34e1022b3d623e5d7396c8b163130fdd518eb78516218a528b8728be9b2d0"
@@ -6828,7 +6828,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.55-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.55-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "a518a39c384ba4d7bf1633f0789d3a52",
           "SHA256": "0af8519b52c38d5d4b6e72f69c0d4c75c0d4851034c1d73d102231963dce28e2"
@@ -6873,7 +6873,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.57-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.57-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "4acd61fd8b1d91f0f0f10298990e0ccb",
           "SHA256": "9031471784d789932d65f9b44ac3490f59f2fa4f4e9130119bace58cf5f4d7db"
@@ -6918,7 +6918,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.58-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.58-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "dc541b8d0bd27b232a47e34dd92ff494",
           "SHA256": "6fae3d08a5e93f0a958a1b5a0e15fb90124dfe19d34ab1e04966f1e8c52a2536"
@@ -6963,7 +6963,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.59-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.59-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "6be567cd5c937c8d0408c664015c80df",
           "SHA256": "32e321eb47132e48bf13da60eff46176bf7eaed9c66a96659a2d241b1c509a3d"
@@ -7008,7 +7008,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.60-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.60-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "5c14d3a2dd598e5b7f928ea10c2686d3",
           "SHA256": "7f2dc8e89dee13d4cc7c84b20baf23ee6afbddde0978b12d335aa6e83651e3c3"
@@ -7053,7 +7053,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.61-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.61-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "6b995eea0f536f1215bf7eb69af1354a",
           "SHA256": "1919874c866e71ab3ddd942c9c2d3c5b218fa55d4f10c18e2626b04867af90b4"
@@ -7098,7 +7098,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.63-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.63-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "9694907c2c868c06354c16c1f0a4c69f",
           "SHA256": "8fe096c56a338596185ca96a0210d63440872fc85d791062a2da47ac9d60a279"
@@ -7143,7 +7143,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.64-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.64-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "bd5e1a44380e8619e5f59210de5411a3",
           "SHA256": "04d31ea146f914bedd56a6c6b3f6537e17cdac1cf5d6c08daed6c4927a8519ad"
@@ -7188,7 +7188,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.65-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.65-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c1c98a5ccce0c9536dc84ca755c69171",
           "SHA256": "9b4ba2f9dfbea23c6f70a9621db552e703fbcf18c3281906deca943110b81cd4"
@@ -7208,7 +7208,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.65-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.65-x86_64.apk",
         "Hashes": {
           "MD5": "eb26091f21f71311a76e53ccdb93b619",
           "SHA256": "09ef118df2f48c1f88770bdfa908c76e0e23a4fbf71aa3435e1953581492d91a"
@@ -7233,7 +7233,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.66-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.66-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "7998dab4bdcdb52d068b501e259219c3",
           "SHA256": "68c46af83cf39c4d6687be80221555b7047740eff0ae08f49616a42bac31c2aa"
@@ -7253,7 +7253,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.66-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.66-x86_64.apk",
         "Hashes": {
           "MD5": "8e1872521e065ac7a9df3aa8e5ef3591",
           "SHA256": "73bdb7dde4a42a3a16db4e76c798ff72762d2e20e7912fddb407af251872909d"
@@ -7268,7 +7268,7 @@
     "Version": "1.16.0.67",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.67-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.67-arm64-v8a.apk",
         "Hashes": {
           "MD5": "51be168fdb7847a08d0a25f54a2a24f6",
           "SHA256": "ab2ddc76480716bccc79f6401ffbc91dbbdaeb19e88a111bf20800c274a8e8ef"
@@ -7278,7 +7278,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.67-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.67-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "387f1cc712110a2c12a11baf550bcf3f",
           "SHA256": "44b48f305566492c907c62a6a50aba3270ee5834516dcbb05ea09e9bf25bb8c8"
@@ -7298,7 +7298,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.67-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.67-x86_64.apk",
         "Hashes": {
           "MD5": "cd43fa28617b1793d4b1d42b1f3d40c4",
           "SHA256": "54a5f2e0fd526fa5ea4a65a9369024fc9129fd35ef3ed709b896b37d313a0c0f"
@@ -7313,7 +7313,7 @@
     "Version": "1.16.0.68",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.68-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.68-arm64-v8a.apk",
         "Hashes": {
           "MD5": "64c2b54b132d4484a458ae7c8ef312de",
           "SHA256": "2d6f31cabdc0b7ae602734ab71b914e7ca98b74dcb143901f8cf3c590d474920"
@@ -7323,7 +7323,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.68-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.68-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "05119ef25be51976ab59d31a03c6cae9",
           "SHA256": "3d589ea76ac239e7757c786e7eb04edffc30ecab613f59da1ccc83637af56900"
@@ -7343,7 +7343,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.0.68-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.0.68-x86_64.apk",
         "Hashes": {
           "MD5": "582ac3d7ffc7591e14e4be3b83fd12ae",
           "SHA256": "542ee41a9b7cc9f49d5820a6e66fdb4cc1640a9ad3b8c99e97b0f79693fefb51"
@@ -7358,7 +7358,7 @@
     "Version": "1.16.1.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.1.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.1.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "9507b5a992b5dcfa47ca6fd1273aca70",
           "SHA256": "c676c4a3e19fe206a8b6884576fd422bf9bdb9dce86f59455c546362213bc8f7"
@@ -7368,7 +7368,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.1.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.1.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "09823b390a258e27f5d58e2d70d90cbb",
           "SHA256": "da53177961151e2325391dd04eda989cbbfca07ecea3d90acc5a6a56e8925cbd"
@@ -7388,7 +7388,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.1.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.1.02-x86_64.apk",
         "Hashes": {
           "MD5": "b2a1f6b24e5ea1701a106afde57a1c9d",
           "SHA256": "ca699caf5828c683d9204e12ac7c5164896edf25d9fc4459f1955f4d4039406b"
@@ -7403,7 +7403,7 @@
     "Version": "1.16.10.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.10.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.10.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "f603df45adcbaebb195fa3b663ef30af",
           "SHA256": "fb034c48da9ea81c08dc8974f8801116cfbdee72b2e7ebba1ba9e24bf25c9527"
@@ -7413,7 +7413,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.10.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.10.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "849a80195367b4c1f97f0325314682cc",
           "SHA256": "b99a32f020adc978a5e45088ce312a460eea2bbd82c03076e5fbfb30e536c73b"
@@ -7433,7 +7433,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.10.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.10.02-x86_64.apk",
         "Hashes": {
           "MD5": "1813b5972a0fb51bd005dbeea5c7cfea",
           "SHA256": "dd2cbcf8dcbb30498e78de2416ee227e07d505f3c11a55b16c083ff4c219719a"
@@ -7448,7 +7448,7 @@
     "Version": "1.16.20.03",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.03-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.03-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c738dc525012202cf988f1c97a36a618",
           "SHA256": "ac4ac5cc60063320cda916f1ceea9e23a554e28694ec0e7f913eeb3754310de4"
@@ -7458,7 +7458,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.03-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.03-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "11d82aa35d9a15719155c70b88be31eb",
           "SHA256": "c1e3302acae0098b7bd5fef2090a3fda571c0294f8a41b8dce80045964e26cb4"
@@ -7478,7 +7478,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.03-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.03-x86_64.apk",
         "Hashes": {
           "MD5": "e17a798e9cbaa360fabd3ed259b46154",
           "SHA256": "88757d2e49170ac213634f5f5a6a9076f31755240d2333d6a3413c2a96f01dec"
@@ -7493,7 +7493,7 @@
     "Version": "1.16.20.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "da1c7cba7eb58f38ba9071122af3fad3",
           "SHA256": "4ff364c8a7d9ece4682eed2587557223154dda5b3527a477f4b6135a116b29e4"
@@ -7503,7 +7503,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "8c06a59e671613fe11ad51757b0117e9",
           "SHA256": "39f98cf7f50eba80fea4903d0be6d82f35cbc7d5bf5bdf914cd69e8c3d5e4aea"
@@ -7523,7 +7523,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.50-x86_64.apk",
         "Hashes": {
           "MD5": "4ffa698e553c9c5a65cee7c523213259",
           "SHA256": "58bda9c1840fb4b0aa1c19ddc542f90eaa50d5393d1361e904e315f864901415"
@@ -7538,7 +7538,7 @@
     "Version": "1.16.20.51",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.51-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.51-arm64-v8a.apk",
         "Hashes": {
           "MD5": "7c36000ddd0199ad16e065c8b1e0c7a7",
           "SHA256": "2ea3110d56f944d243f59767e23a335127958033b21c220ec281c692156912c3"
@@ -7548,7 +7548,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "df407ddcb0db5222ac77f96eefdf7885",
           "SHA256": "f2d81bff949d54dab42e3d2e758e8fd29ff2dee8d8b217e4aba6bfaa5b4a856f"
@@ -7568,7 +7568,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.51-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.51-x86_64.apk",
         "Hashes": {
           "MD5": "fbe667693daa3bfa9f2a1c427cea1fec",
           "SHA256": "12dde46861fe634147ac6855c754528aab086805ab9e0491b0acde5115c46de1"
@@ -7583,7 +7583,7 @@
     "Version": "1.16.20.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "6d0a40bb2c350f391d05bed73b8206ab",
           "SHA256": "7bc629158a4a3830857963cc0adcaa9a30f38cf0c89d0acca120e664ba755d29"
@@ -7593,7 +7593,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "7b58a04b7a7fe3c10bcc6ba0332bd5b9",
           "SHA256": "4b55e336ca403da821d33ecdc8e3f5e9754d193dd737959b3c03fc5ac23b7833"
@@ -7613,7 +7613,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.52-x86_64.apk",
         "Hashes": {
           "MD5": "e20e9494147e6e0b7d008a0663482887",
           "SHA256": "53fb72c4f6435dcbc7d767007d56b85a326438c5998310e7a710fbba27d576fa"
@@ -7628,7 +7628,7 @@
     "Version": "1.16.20.53",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.53-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.53-arm64-v8a.apk",
         "Hashes": {
           "MD5": "602e11dc3e98bffb0068f3d2a576785f",
           "SHA256": "baafa67d9fd32e4b62d5dc2e054f599ee956a94c5c906edd701c186a1a9386af"
@@ -7638,7 +7638,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "3acc34383023e4fffc70377726735db3",
           "SHA256": "73c5c71e146098633b7cc3e6ad4f3c389c5aed3651e5486e597e97d8a4f4e743"
@@ -7658,7 +7658,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.53-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.53-x86_64.apk",
         "Hashes": {
           "MD5": "45fcc8f097967ede8f17bcdb1a847b73",
           "SHA256": "02836dacf113b7fde94cdd456763ef937cecd347b7883d69983d04fb5974f660"
@@ -7673,7 +7673,7 @@
     "Version": "1.16.20.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "e66ea797b8624e1853d5a2e84fe06129",
           "SHA256": "9080b7d407dbbd5639a1781add88374466492879f06a68348362d0d9edba7642"
@@ -7683,7 +7683,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "b594378bbca3cedf03f054da1c4d0104",
           "SHA256": "2143ad2e3802a9baafc62a83d6a6678db9449365f7a593df9fad123dcb055f97"
@@ -7703,7 +7703,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.20.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.20.54-x86_64.apk",
         "Hashes": {
           "MD5": "241e68fc09b1cd4683432a0f0ecc6008",
           "SHA256": "40511a820657189e14ae61ab645e5dd5510733b801872c1f8e2c0d2ba45f4929"
@@ -7718,7 +7718,7 @@
     "Version": "1.16.40.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.40.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.40.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "3cb69f4fb614a457b6dae90686ec3714",
           "SHA256": "3ca5a6951f26104f8961edfc5671614c5f2bffc58e82cb3753c7072149cb4180"
@@ -7728,7 +7728,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.40.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.40.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "7400225615b29d15a72e343e193f0685",
           "SHA256": "5a94ba9b21238fd6c8f568c6ae397093cb4cd18e6895809dc017cbb1316fb175"
@@ -7748,7 +7748,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.40.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.40.02-x86_64.apk",
         "Hashes": {
           "MD5": "1a3c897593cea602306bbad7da8418f5",
           "SHA256": "b91d989ff1b4e105095e423254d9710278ae573b9f2cca3f2acb641f6dc2b641"
@@ -7763,7 +7763,7 @@
     "Version": "1.16.100.04",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.04-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.04-arm64-v8a.apk",
         "Hashes": {
           "MD5": "a2f1c72d468c6c2d889e263ab1821442",
           "SHA256": "8366718aefb720fe646b1822ef76846be8fab09b8f13a842cfc5612bc70bc58c"
@@ -7773,7 +7773,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.04-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.04-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "1d5398306e00230c9ca64d7aa50090ac",
           "SHA256": "daab19911946de23b16fb7e966c5acf958b5113b98dc84d3a0d2ed28009d47b3"
@@ -7793,7 +7793,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.04-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.04-x86_64.apk",
         "Hashes": {
           "MD5": "1fbeaf7119780d04d3b2a5f09353bc64",
           "SHA256": "8bc71d1e3ea8f65362bddef3a4760f799e4c8e9f1e78a26001e89504315a8ff4"
@@ -7808,7 +7808,7 @@
     "Version": "1.16.100.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "e3ed54349bdf8b25eef1e0dd885bdb0c",
           "SHA256": "d3b4f90f5bc388da0e2a3ae7fbf45b766a371a19ec249956912c1f014f78ccfd"
@@ -7818,7 +7818,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "a6dcf01c868eba2ae2df5d1fa8ed99b0",
           "SHA256": "55a6fcc162c48b4935e4db085528c570b123534574a461c61ca1b7123b282cf6"
@@ -7838,7 +7838,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.50-x86_64.apk",
         "Hashes": {
           "MD5": "29022ffb857f039d301413d2d44db0f2",
           "SHA256": "07b1d3e76c308c38729bdaf9d686fcb41a36492199df0cdd05d668f494f124a2"
@@ -7853,7 +7853,7 @@
     "Version": "1.16.100.51",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.51-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.51-arm64-v8a.apk",
         "Hashes": {
           "MD5": "dad094564bab28e3516819114d2e3152",
           "SHA256": "355f557b4e3987d313e115fb04e4905aaf13bb02b6ca75095895483b66c4c83b"
@@ -7863,7 +7863,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "0cd6a54d922f856bdbd4ead2a4907b8f",
           "SHA256": "192ff96932a14795af8c2468c6a559bb36e7231ffb56817fccc3dd65d44a7a38"
@@ -7883,7 +7883,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.51-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.51-x86_64.apk",
         "Hashes": {
           "MD5": "ad6f752003c34a346dbeb5ab05e22188",
           "SHA256": "09740ac5d9d358b322685ffc1b987496c4e525d13b4b4b4199e743092986dd74"
@@ -7898,7 +7898,7 @@
     "Version": "1.16.100.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c5495b3981088733addea9e306517f91",
           "SHA256": "a7f616049f56fed984fc22db88e31cc7965b4037acc42a2143f94992957fcfaf"
@@ -7908,7 +7908,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "bb5d3c15e0ac307c746e449cc47b8210",
           "SHA256": "61617cec356e99b084deaff06aabcb9828b0bbbb209d3cf2827799572ea9073e"
@@ -7928,7 +7928,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.52-x86_64.apk",
         "Hashes": {
           "MD5": "66ca2840bf39e4462a53e33b749826cf",
           "SHA256": "8c4ae9846ae9157b1c212528d0c834d785fc3038729bdfdee4320f0e4a10f02e"
@@ -7943,7 +7943,7 @@
     "Version": "1.16.100.53",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.53-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.53-arm64-v8a.apk",
         "Hashes": {
           "MD5": "dbff8df04b1aa716f75eeb2507c0791e",
           "SHA256": "21ae01b6a7eb65e58f95bb3de0751e51d9305bedfdb7c2219399568fe7163c4b"
@@ -7953,7 +7953,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "dc65de5ba5f8552fe38b7f4f6e4b82b8",
           "SHA256": "0071fe833b7886fc1b1f52d838dbd1a5e653b8b1a579c09b0670a766752c649d"
@@ -7973,7 +7973,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.53-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.53-x86_64.apk",
         "Hashes": {
           "MD5": "f19179e15ef5bebabe812e722bdd2e54",
           "SHA256": "29d7f1fdb7641a9a18be1da3c5297e0908d8c4c88908b38f239da9cafcd91fd9"
@@ -7988,7 +7988,7 @@
     "Version": "1.16.100.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ef644ed4c118ce9ed28a3c2a1b21722d",
           "SHA256": "aea1365f60561753385d741909b3145d472562e7ab5d7802598972d59ef7fbef"
@@ -7998,7 +7998,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "bbc480d1520c24fd4e8d332629770a4a",
           "SHA256": "9c13b9320684c92ee541eb24136f42e2d0102b76f34257758a4803e9eb39c9ea"
@@ -8018,7 +8018,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.54-x86_64.apk",
         "Hashes": {
           "MD5": "10362ea32e0f02b0937a151a5fd4a0c1",
           "SHA256": "4e1fe3e86c902e12d14ca48ce4287fd2adf2d1ab5a86f0b6da44b9b5f51cca87"
@@ -8033,7 +8033,7 @@
     "Version": "1.16.100.55",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.55-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.55-arm64-v8a.apk",
         "Hashes": {
           "MD5": "e4e213e273a60c8caf0ab267ba41044d",
           "SHA256": "e3cf156b6e116ca4c53faf08ed4c8fc8507b5a9d30368f035b0b2caaaca08ed9"
@@ -8043,7 +8043,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.55-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.55-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "47edd6a7cf5f0b5b1f08d009e4aa2904",
           "SHA256": "c7f527a669f7a2add095643bd23d6af875330b7f3c19937075e4cedd9c14c07d"
@@ -8063,7 +8063,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.55-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.55-x86_64.apk",
         "Hashes": {
           "MD5": "2d486bc0b9ddfca94e7a6bc808bd8d05",
           "SHA256": "a4047cecf91b85c55ce89b0c7d46335dd3067870f33c182cf53acbd53b4360e5"
@@ -8078,7 +8078,7 @@
     "Version": "1.16.100.56",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.56-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.56-arm64-v8a.apk",
         "Hashes": {
           "MD5": "d283e43db4ae53f754e3dea42bb5c596",
           "SHA256": "5a650e00252127c007865d202b21675e6ef01b0ee1e509429148dcd5c5c1edfb"
@@ -8088,7 +8088,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "9c3d78ee8d13925e0c440faa386eab3f",
           "SHA256": "7418828311793353739370c9937d2896709ea75d341224523784b558f5a8f4d4"
@@ -8108,7 +8108,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.56-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.56-x86_64.apk",
         "Hashes": {
           "MD5": "b079242dfb73582a1b05834dbe31fc79",
           "SHA256": "81ec56f9ce63dc381c7ff8d8213590af3a7423bd8e473f17a77e39635248798c"
@@ -8123,7 +8123,7 @@
     "Version": "1.16.100.57",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.57-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.57-arm64-v8a.apk",
         "Hashes": {
           "MD5": "953889683fd46a4bdb52a08ab0d8cc17",
           "SHA256": "001f4516dcf42cf2f6a33b4fa74ac1d2bf6ec185a5d040b7477795529e9de4f6"
@@ -8133,7 +8133,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.57-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.57-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "5095dfff3a1c6403589a175aca059016",
           "SHA256": "35295f76e2ac2ad20028e27cf0af4804d36ddffd9ab55fe731970dffb84ad4bf"
@@ -8153,7 +8153,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.57-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.57-x86_64.apk",
         "Hashes": {
           "MD5": "b05f730a3131bef3aab15b8c952c1aea",
           "SHA256": "e617bde90a075647c8ad38bcc2199ac744d0744d312bfaf0532d6c8d038234b1"
@@ -8168,7 +8168,7 @@
     "Version": "1.16.100.58",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.58-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.58-arm64-v8a.apk",
         "Hashes": {
           "MD5": "1edc420a159403aae8cf2b0c9a33bdd1",
           "SHA256": "2a65c8d2202b110e5229444ff749a133f782df3caa7c7efdcd934c1ce65a897c"
@@ -8178,7 +8178,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.58-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.58-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "d08687432bc448db12d95e6556495813",
           "SHA256": "8040e10d83663c86f994a2acee7f95f1ce6985a72bd99faadc62ac3068418ed9"
@@ -8198,7 +8198,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.58-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.58-x86_64.apk",
         "Hashes": {
           "MD5": "24378cad86fac070aa7329b956c6945e",
           "SHA256": "23bc242f9f0f67c4f5dd4f726ac5ee03c5217eb51ca4b6a3779a726e70acd871"
@@ -8213,7 +8213,7 @@
     "Version": "1.16.100.59",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.59-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.59-arm64-v8a.apk",
         "Hashes": {
           "MD5": "60611b640dd38816587b34c4a0b934a2",
           "SHA256": "244cf891ba84666743ecb21c62bd5e5b9c2a957ace74271aaa002c661f919b70"
@@ -8223,7 +8223,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.59-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.59-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "f35b308677827e4e2513a62e803aa4a7",
           "SHA256": "9f6846e00a1c6a39d23bed8eb00e3b38a968b80b8cbe677f88ce715cea52d4d2"
@@ -8243,7 +8243,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.59-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.59-x86_64.apk",
         "Hashes": {
           "MD5": "a58520f6b9538744e887221a6315258e",
           "SHA256": "a979d7f07c234df60a805056bc4bc5c534c3c183a8de7396faa7df70877c96cf"
@@ -8258,7 +8258,7 @@
     "Version": "1.16.100.60",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.60-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.60-arm64-v8a.apk",
         "Hashes": {
           "MD5": "4bda812484f48c58b81d383de07a8852",
           "SHA256": "40b90ada21402151fa471e2861d840bfd7252a37a0a20b8540b51daa813f1561"
@@ -8268,7 +8268,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.60-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.60-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fde41fe701c504490fd6525518ebd29e",
           "SHA256": "000ddb48171f21f48391b0b26e65798bc33de0170a5990abdf44520f8c88e176"
@@ -8288,7 +8288,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.100.60-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.100.60-x86_64.apk",
         "Hashes": {
           "MD5": "4bfb2358b25f46de28e44ffd33826e99",
           "SHA256": "7969d85939531d8488da546a8dade8863eabd83c8b056c1dbd3b55fd995e788c"
@@ -8303,7 +8303,7 @@
     "Version": "1.16.101.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.101.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.101.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "8e342b5e79c1f8a3c603b952cfffb962",
           "SHA256": "f6046edc3008181724b003bde891741af3e45f194fd63824612e1e31d9862ad5"
@@ -8313,7 +8313,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.101.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.101.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c857115685b38a87fb35852665a0338c",
           "SHA256": "93b315035dd7f5907908bc4ed77de176a615838edd524e9578ceaea3f59efcee"
@@ -8333,7 +8333,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.101.01-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.101.01-x86_64.apk",
         "Hashes": {
           "MD5": "186a856b65e7222487e47bb54d52eac8",
           "SHA256": "d1a0d47410281a00cce13789b43b90a3dfa79ab933bca4eeffe991ce6edea261"
@@ -8348,7 +8348,7 @@
     "Version": "1.16.200.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "4fbca2d60c29f2870d3c23b74a380239",
           "SHA256": "a6f1907d21e01abb47ca76f68b4d135704736c417d902657a408ddd8c4c1acdf"
@@ -8358,7 +8358,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "3081bbc4ee21f698f3843966f2750b4e",
           "SHA256": "7e78cf1b0d1ebd7d01942585f7a5d0fa4721bed5b8b88660ea9a4b623851e3ea"
@@ -8378,7 +8378,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.02-x86_64.apk",
         "Hashes": {
           "MD5": "15fbb5d3bfb22c49d84894bd3f885469",
           "SHA256": "fcf47f2fe565cbbea63c363e5c41ef972b732195e9bd4a104bf09a154ad6efcd"
@@ -8393,7 +8393,7 @@
     "Version": "1.16.200.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "e9cfdae14fe5d9527ce677422eabfad1",
           "SHA256": "fb4bd9468aad811e7536ff04b298e1f61834a848a64700515cbe9a93e783cc6a"
@@ -8403,7 +8403,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "99626f182357401347b53933acbb684a",
           "SHA256": "9f4e6d483c6369a64d63f2e5caee67126b0d36de951c7e858d7ac765db2a6cee"
@@ -8423,7 +8423,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.50-x86_64.apk",
         "Hashes": {
           "MD5": "d9a26df508cbfc0f13e065330924beee",
           "SHA256": "2034806a281a2b9001be978f0fbdb2a32fe2bb27713cfb6df4c27ec47d413d2d"
@@ -8438,7 +8438,7 @@
     "Version": "1.16.200.51",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.51-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.51-arm64-v8a.apk",
         "Hashes": {
           "MD5": "f4ab21539b8ab26d53efbb4513f643f8",
           "SHA256": "5bf04de15188a0281bb98194a1949d6fe2c10e77fff392319c8258f566433d03"
@@ -8448,7 +8448,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "de6f22f0d9456cf04e95d34964ba5f48",
           "SHA256": "01e2eb136589f160bd3dc4143f9dfb20fb1912796ed011369bad36e199a2935b"
@@ -8468,7 +8468,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.51-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.51-x86_64.apk",
         "Hashes": {
           "MD5": "4fb147a85f3d9434f63e7d3a5e7fd93b",
           "SHA256": "9cbef6d6b13c821dd06ca71cbca2818b089ba6eb91447477c7793d83f9111565"
@@ -8483,7 +8483,7 @@
     "Version": "1.16.200.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "360fae2b3deb64d491615ff7c696793f",
           "SHA256": "15de31d42228d360e37511f8309cd4eac6cb96bf6ebfb99cf0b49092f378e088"
@@ -8493,7 +8493,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "3230e667a6335e8a86f1b945297d9bc0",
           "SHA256": "6187b71acde1aa75c8e43f9eaa2f92de5746294bb07443328accb85aadcf8dbe"
@@ -8513,7 +8513,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.52-x86_64.apk",
         "Hashes": {
           "MD5": "549a801a4545f837b8ac38ade69240e0",
           "SHA256": "f48a9e2fbaa6ebe81e83f080371a6b3adeaad5ce7a4df650822d25da023cee9d"
@@ -8528,7 +8528,7 @@
     "Version": "1.16.200.53",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.53-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.53-arm64-v8a.apk",
         "Hashes": {
           "MD5": "82be1934a916230c8c9d72cb21865a96",
           "SHA256": "e7fb5a2eeee8ddbf50835bef4d1e8386121818cf28f2fdef733274053dde2dff"
@@ -8538,7 +8538,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "37f27716b30ae811c8708f1e1365926f",
           "SHA256": "52c28e036d8fa90dc0cc788fae4fd383e7579e15ad200b058c7e9b73135ec4cc"
@@ -8558,7 +8558,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.53-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.53-x86_64.apk",
         "Hashes": {
           "MD5": "e0dcfc9e830b87be46ed1b0f88737b25",
           "SHA256": "bd4c7bd8279300acc3b382b8bb7b115e860f5d77512842fa6ef973ab1ecf0acb"
@@ -8573,7 +8573,7 @@
     "Version": "1.16.200.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "16971d55499b41263e8cb94288295a4a",
           "SHA256": "6c7753328afea3696cb281f82aa3ce0110e727a22fb4c126aaf96a1ae85fbbb2"
@@ -8583,7 +8583,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "1663ebc234b1e20bc011abfc1dfaceb0",
           "SHA256": "20aadd9eefbcc0ca6c6b7ae5de373d8b6064b4392c79f80d3b063a80b6517c8e"
@@ -8603,7 +8603,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.54-x86_64.apk",
         "Hashes": {
           "MD5": "641c32a635114abc425fc9940dd575ec",
           "SHA256": "2a433406be888b79976e454c2b6e292f4cba65ce9a2b33ebad20b06948bcabca"
@@ -8618,7 +8618,7 @@
     "Version": "1.16.200.55",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.55-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.55-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c7d077cf4e6173c5301ff40eb4a0ac5e",
           "SHA256": "5cb5e9b19403375b8a76ea896a1830c3e29d00dad33a158b788d612ef1bc3235"
@@ -8628,7 +8628,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.55-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.55-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c290ec644bda8f3e82f35db0129b493e",
           "SHA256": "cffd56d6355b4e25aa72d56146cee3765eb5312b4077cd23059a2ef56fdf3052"
@@ -8648,7 +8648,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.55-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.55-x86_64.apk",
         "Hashes": {
           "MD5": "a84057d7700de28b206c4dea438d1cfe",
           "SHA256": "02c6a611290cef6208b26fee2da7574207b189521207d11b70c6b40fb33ae2b4"
@@ -8663,7 +8663,7 @@
     "Version": "1.16.200.56",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.56-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.56-arm64-v8a.apk",
         "Hashes": {
           "MD5": "4bbbf98cca9f3e3026dac63b4682d990",
           "SHA256": "c10e652ad0f842244593d152a54749dc35ccfed4b57c50502b271abc16ecbf6e"
@@ -8673,7 +8673,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "b23e8f3bf8106390a6534f1e422c8735",
           "SHA256": "d1d54b1ed8368345ed98e74483ff26e128c54cab9dabdeb77d24fb3d001de730"
@@ -8693,7 +8693,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.200.56-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.200.56-x86_64.apk",
         "Hashes": {
           "MD5": "17e4b1177515963c35412ce2834b00c5",
           "SHA256": "22dac2d355b7b37edad8acd0a65cf8f892827dc25267a38f560d794473c48fe3"
@@ -8708,7 +8708,7 @@
     "Version": "1.16.201.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.201.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.201.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "e59041b5aacba8ad70b9f8e3cfb15942",
           "SHA256": "8177db491cc2a423b1bcd038c1b6e6c8348df5a08cebb4b9e780dafbe8d6780a"
@@ -8718,7 +8718,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.201.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.201.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "9239e012040ed36edc6309a8ed793efe",
           "SHA256": "cea6610b84f82003fd8f23d3998436520f476177fc79974d5e1bc78cbe1cd448"
@@ -8738,7 +8738,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.201.01-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.201.01-x86_64.apk",
         "Hashes": {
           "MD5": "f6d6dee6f8bf1ed22563f712bdb955fe",
           "SHA256": "500184bdef95f9b0c9f0853f47c46aa02c30f7636b6d8de94f72e7888615ea37"
@@ -8753,7 +8753,7 @@
     "Version": "1.16.210.05",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.05-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.05-arm64-v8a.apk",
         "Hashes": {
           "MD5": "2a6fcedf631d7c6cfeaa6e52e4058501",
           "SHA256": "ea2de48840fe6870198eb450d890b201561af57bcbe7d387eabfb35abe26c6c0"
@@ -8763,7 +8763,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.05-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.05-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "23f584c4ccad0d407ec750717118a899",
           "SHA256": "e935ff38335469020abf06202709698249038287b669e5dbfd1138b2ce1aead3"
@@ -8783,7 +8783,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.05-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.05-x86_64.apk",
         "Hashes": {
           "MD5": "c8dbe16181f5137dac6cfc02e7f78502",
           "SHA256": "bf972b951fe4306c43b958148763dbbf205e1dd5c7ec92ceccf5bce78b2dde8d"
@@ -8798,7 +8798,7 @@
     "Version": "1.16.210.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "99a6f35585f56d6de63a1f0e66ef7806",
           "SHA256": "eff4c33671606706d744be05754f8cbd6b86e8d1c0757564af7174826207280c"
@@ -8808,7 +8808,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "ab5d346b24805183faa1fb232c856a99",
           "SHA256": "5f9cbd01124a22cbd9c6168d2f561314c033e45da910ba1ee1c46514637bfa59"
@@ -8828,7 +8828,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.50-x86_64.apk",
         "Hashes": {
           "MD5": "1b1cb1fd508ea432200f8ae13f1ad1b0",
           "SHA256": "3a9a3d06648907ddfbb50645fa51dabf6ef0f4427b5ecd60d9c6655776873368"
@@ -8843,7 +8843,7 @@
     "Version": "1.16.210.51",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.51-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.51-arm64-v8a.apk",
         "Hashes": {
           "MD5": "1b9059f3c0919a4e292c797919caaf1b",
           "SHA256": "f26edcd16be76a7b01a8f4513e1eb0e494b471aaef2fb7a2b0ee7508204d08dd"
@@ -8853,7 +8853,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "486af9fd8cee079c84860fc9af009d1f",
           "SHA256": "15fd65ae1e36a30af112e4dd1fbe740a63c085705315322f439c7207936b1a96"
@@ -8873,7 +8873,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.51-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.51-x86_64.apk",
         "Hashes": {
           "MD5": "75029840f4e6d0cc1e1fbe0c2e419353",
           "SHA256": "8c6112cddf690ba61930f9e64a9a7256748979a6b2607d0cc955481489c5d246"
@@ -8888,7 +8888,7 @@
     "Version": "1.16.210.53",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.53-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.53-arm64-v8a.apk",
         "Hashes": {
           "MD5": "214268cfe31f58e21297003877ba91fc",
           "SHA256": "2209c25c1f99057ed78f66e23d9680301cc14aeee1b0ed75c826bb73390f6524"
@@ -8898,7 +8898,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.53-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.53-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "458d57c93722730a366647e7a99a6dc9",
           "SHA256": "febf95658458b356339806a2f62cb251075c280666b329bf7d25a66ca781b14a"
@@ -8918,7 +8918,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.53-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.53-x86_64.apk",
         "Hashes": {
           "MD5": "a6ad43cc663db978490c98794dbd7729",
           "SHA256": "87cab2c47acf5890bcf1af127c8b868f136fd473631f11e79a265945f0b2dfdd"
@@ -8933,7 +8933,7 @@
     "Version": "1.16.210.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "3a24041c35a5f79c9add6483c6afa62d",
           "SHA256": "e38feec161b25307c74a9a772324918c6a8194b2e0681c40cb684de09507006d"
@@ -8943,7 +8943,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "62394fda1df2a7ffe3db8df0b9a44153",
           "SHA256": "3183ad41bf55228a105d075392f689cc3e7d987f9a4f19d488cab26fadef2744"
@@ -8963,7 +8963,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.54-x86_64.apk",
         "Hashes": {
           "MD5": "f0aec13c0e1bc032963b96cd04164186",
           "SHA256": "664314aa18b46a4cfa796d41c16c5336c43dcfed93a7f8a4503fa0f8400ba12c"
@@ -8978,7 +8978,7 @@
     "Version": "1.16.210.55",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.55-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.55-arm64-v8a.apk",
         "Hashes": {
           "MD5": "2c42c57884f5a899d1d3fa6fc13c0d5f",
           "SHA256": "acd1eb3c3c7acbe5115027e52762373b6e423d125953012ab3da027611c4fafc"
@@ -8988,7 +8988,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.55-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.55-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "2fb89378c10436b3f6e937d2f18ac395",
           "SHA256": "3beee45a971c447d74af31476c5d637a1cb702ebc7c56feb367ba54266773bf0"
@@ -9008,7 +9008,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.55-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.55-x86_64.apk",
         "Hashes": {
           "MD5": "0ed93e6e76ee90e18d2fcf39bae4db56",
           "SHA256": "3579d3d23099bfbc14b884daf699fceff9f411225aac5119b53d7d41fbb32a5e"
@@ -9023,7 +9023,7 @@
     "Version": "1.16.210.56",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.56-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.56-arm64-v8a.apk",
         "Hashes": {
           "MD5": "1117514d06ff996cc2dc932494201cfd",
           "SHA256": "de07c13c0b8cce68071526415b8b9c5312578b3a701823393189ebaa0106fa90"
@@ -9033,7 +9033,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "cdb3a9d83781bcb0cff11b466cdb0d81",
           "SHA256": "b8dfba54e4af470d956cd21c9df1ac59f901495405ea27415cc4fda8dd7f0217"
@@ -9053,7 +9053,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.56-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.56-x86_64.apk",
         "Hashes": {
           "MD5": "2031c76803961d048e09f674d80949db",
           "SHA256": "916735a180f7db1ea8e44de7f7ce8e9ea86aad7e5b3815d8d8734dc6ec52f602"
@@ -9068,7 +9068,7 @@
     "Version": "1.16.210.57",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.57-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.57-arm64-v8a.apk",
         "Hashes": {
           "MD5": "41f66800ccde44f6e9f103412f889fdd",
           "SHA256": "22061055f8b4a6e7aafe7bb073320820d29bafd4d2b509abda2938e7f57f286b"
@@ -9078,7 +9078,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.57-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.57-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "b2fc2e84fc7afb3e1e898a653fd09376",
           "SHA256": "4f875554357e5507a83299412f5af033f1b8c54f7afbcd51c40035b804015b1b"
@@ -9098,7 +9098,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.57-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.57-x86_64.apk",
         "Hashes": {
           "MD5": "c88d082085083f2aab66c679d154e476",
           "SHA256": "f78cdad808f3149306b1bfa89f87575a738e9d6865ff4d2c34f419f336979e7e"
@@ -9113,7 +9113,7 @@
     "Version": "1.16.210.58",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.58-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.58-arm64-v8a.apk",
         "Hashes": {
           "MD5": "6903c3ca6c327cf2b5fb10f246ef88f7",
           "SHA256": "f04b16709ea9a3898d5aefe5224a23c1178e543d460e26a9f62bb5391ea54c06"
@@ -9123,7 +9123,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.58-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.58-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fd9118b8cbe6260492c4e6fdbb81d96a",
           "SHA256": "dcc7a043dd86508ec6e628ec0b0ce3ac763e900ed814e2104bf16786bb7f7bd6"
@@ -9143,7 +9143,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.58-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.58-x86_64.apk",
         "Hashes": {
           "MD5": "6e301349d50fba2097ece193de91168d",
           "SHA256": "97f6430fc089d13bd1e016d4876674159e6debe5bd0bfc7a01abe11c78b95321"
@@ -9158,7 +9158,7 @@
     "Version": "1.16.210.59",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.59-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.59-arm64-v8a.apk",
         "Hashes": {
           "MD5": "fcbee07c274f0e1647eeda979b0626a6",
           "SHA256": "8386a6cc4b181de02b9e87debec7e477f26fa190b698927c1345ae40f83911e2"
@@ -9168,7 +9168,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.59-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.59-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "29031c1cc759a38968393904e8a1ac92",
           "SHA256": "ac8b396039d5bf86bc8cf71861f2ce05486454d1e4f38f31ca82fe852061b423"
@@ -9188,7 +9188,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.59-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.59-x86_64.apk",
         "Hashes": {
           "MD5": "48e2e6acc6b7e20d45f21e7286dba305",
           "SHA256": "a6e8e7fe0c4864b51ca20acf934e5a7481237d2c2472d0f95c17ee6fda6c1715"
@@ -9203,7 +9203,7 @@
     "Version": "1.16.210.60",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.60-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.60-arm64-v8a.apk",
         "Hashes": {
           "MD5": "b9e6b19ad6c73a12d5e3e322df14d883",
           "SHA256": "7ccc9d8cf0c970c0a99d9bfd83835eca9d2442cad4969c2972bcf317559abb07"
@@ -9213,7 +9213,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.60-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.60-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "034083ae2606e10f4132619cf39990b5",
           "SHA256": "0aa137b75a316d2b63abb5ff4b407db202f631ab001552dfb73046ebac221626"
@@ -9233,7 +9233,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.210.60-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.210.60-x86_64.apk",
         "Hashes": {
           "MD5": "74603799b12801eb873d50be15689db9",
           "SHA256": "4908769de3b6a0c99e103d58abfa3ecfde324ffd388ff6dfa3d1e63856bb3a96"
@@ -9248,7 +9248,7 @@
     "Version": "1.16.220.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "21e07d6c3d93b56a154763d8b9fb678f",
           "SHA256": "667c268d471a0dcae7e56806bd2631252500a26b9269cdd707c8c03845610abf"
@@ -9258,7 +9258,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fb030af5923460e3231237e17737fad5",
           "SHA256": "b65d29d074a764d2bf8215192b6cccb12ab0d8b51fe0ee9997e44f8594e9a1db"
@@ -9278,7 +9278,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.02-x86_64.apk",
         "Hashes": {
           "MD5": "13edba1a0edf5d94515be657df6caec3",
           "SHA256": "87d3892ded90024d132a405413b7c7c37f80889c0c82721ba1b4931591da8823"
@@ -9293,7 +9293,7 @@
     "Version": "1.16.220.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "cc4d40bd8b8ccc791d9fc975e6ee6602",
           "SHA256": "c4590f535cbe739d08e4fabb1bb51c383918bbe5c744d5fc69427d51a078d66c"
@@ -9303,7 +9303,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "95a411925d52b60edf09382ba23c84cc",
           "SHA256": "f7010c3449304ebe10375d70cd49bd2448d742bde6d69f7eb8d692927309632e"
@@ -9323,7 +9323,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.50-x86_64.apk",
         "Hashes": {
           "MD5": "c4d58a526efd30a967babaf72ad332d2",
           "SHA256": "ceab0690bea52f1d288c6f49a4f75d7afbf8022836c8213d7ec5fc7b2d58c05f"
@@ -9338,7 +9338,7 @@
     "Version": "1.16.220.51",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.51-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.51-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c531d05837156cc709268803e0905ae4",
           "SHA256": "19ad7f646a0b2e3268217a4d6f94fc1c3ce8ee3490bfbee322cf55ba7442afe1"
@@ -9348,7 +9348,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.51-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.51-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c307b6932ed196fbed10dbb43e9a73f0",
           "SHA256": "031542ac65d441afc0fbf8e9c6672e060b420d4f3b40a5fdcce7493e863bf5b2"
@@ -9368,7 +9368,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.51-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.51-x86_64.apk",
         "Hashes": {
           "MD5": "f69a708cb40a6914bef2aff52b252b93",
           "SHA256": "4b2fd7eff6415d0b1e8212134577dbcbab90f280c27a651dd02097217a8c5145"
@@ -9383,7 +9383,7 @@
     "Version": "1.16.220.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "12971d27029481c133db4185c11b1b59",
           "SHA256": "9813fa2b9b10fb2e77bda937e049ab3b9244ce54dcce4d67dc1d740046a7f5d4"
@@ -9393,7 +9393,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c2fa2cb81d75ea1f4a0168dbeb244db8",
           "SHA256": "631c492e4d66ac5ebff67f27c0ab21c66b3c55a9c337b36b5ec29e338d906d7b"
@@ -9413,7 +9413,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.220.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.220.52-x86_64.apk",
         "Hashes": {
           "MD5": "82036b40dc26c4b65f214cea7425e6ca",
           "SHA256": "ed040c6df8fab492c4c4fd286305479e2fa42bc5f4ee228537a7284688a9d93c"
@@ -9428,7 +9428,7 @@
     "Version": "1.16.221.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.221.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.221.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "42c01485d8be7885b28e6f2788a0cd28",
           "SHA256": "e29debb96a8172560922519d360841bc66f676f44b2dd5d4587b762f6fdf5d3e"
@@ -9438,7 +9438,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.221.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.221.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "a555c7fdee46ad51d629779f5e04162b",
           "SHA256": "43248212bce427642c709d6886069292fdaff854f3c369eb4e0c7bc9e71767d8"
@@ -9458,7 +9458,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.221.01-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.221.01-x86_64.apk",
         "Hashes": {
           "MD5": "af7efd8c0808dd13a0e1f768964ce4d0",
           "SHA256": "262c5efb4855d5c18ddf75d56507855b6e631c7c957003da05d25a195b0a6d3b"
@@ -9473,7 +9473,7 @@
     "Version": "1.16.230.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "7e45a7dd8e6b1220ec100772e3df776a",
           "SHA256": "a715c2deeb62afc74d79343be945d45d6fbd0520123807c0280b3ae37ccd9ff3"
@@ -9483,7 +9483,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "f67f61ed5a1a38f2622329dc2a500434",
           "SHA256": "e0597d0e10dd1bd25ed2669cdc7fe965078c70040e9cf194eef3acf26c7f3781"
@@ -9503,7 +9503,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.50-x86_64.apk",
         "Hashes": {
           "MD5": "a3f89fb610f1915674fbc5f6f0ff56f5",
           "SHA256": "297fede89d189eb982908a036e0bcf07e8db1058be3ade9047745f522e509a7e"
@@ -9518,7 +9518,7 @@
     "Version": "1.16.230.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "56ac601d2b7cf12d282628eb8831d093",
           "SHA256": "79a2fe8f9ea4d0a37bb159300334c98f7b9b99dc0329aa9d0c1d655f2375b06d"
@@ -9528,7 +9528,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "e6ba4093ba2e2b12e4821311bd7a8286",
           "SHA256": "de557a1894577465a47e00d82a8058a24bbe1a1ea6140e93546621cef28b03bb"
@@ -9548,7 +9548,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.52-x86_64.apk",
         "Hashes": {
           "MD5": "8c48b96c963396e161311739489a14df",
           "SHA256": "ed81266f3a6e487d7c30b3e36c6d6c582666dcf8308897ae6c0ebb11c04cac20"
@@ -9563,7 +9563,7 @@
     "Version": "1.16.230.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "504c14e8ba38cf7fc067a28403a9ddf6",
           "SHA256": "c14af81f82852806928e3b5380b852d22c814a70229d3ac78d8c88847bd7e677"
@@ -9573,7 +9573,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "cb5636b338e300f58e266afb200bf425",
           "SHA256": "3eacafd0f57660993b185d81308742e2b77f1056fa310eb23dbf3d90c2ed9e3d"
@@ -9593,7 +9593,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.54-x86_64.apk",
         "Hashes": {
           "MD5": "0222dcca04424872770d1dfd68125e96",
           "SHA256": "b2c2c4d37c1375836d832ca3e2f6590ea7b5ef0a41edd9fd6b8b70ba35826279"
@@ -9608,7 +9608,7 @@
     "Version": "1.16.230.56",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.56-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.56-arm64-v8a.apk",
         "Hashes": {
           "MD5": "59a96a413b9609b5f3c550dfd1b60518",
           "SHA256": "726ef613cb08e629e1e6b7b5fdb84d9c56ff032dfcd3b2c5fbf71a513bcfb260"
@@ -9618,7 +9618,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "449dcb9d4354019dd1349ee175d48609",
           "SHA256": "15551fbaca6d8421f2971abdb5a1ae15236b28c1fe6dea993c715c90f738ea0e"
@@ -9638,7 +9638,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.16.230.56-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.16.230.56-x86_64.apk",
         "Hashes": {
           "MD5": "e2c9d9a184c263d2b9d158165e4da01d",
           "SHA256": "feac35cb6566597138768d0e4c92a14a7d06ae42e9fd5a187278aed132b7333a"
@@ -9653,7 +9653,7 @@
     "Version": "1.17.0.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "74249edd8cc99ac7c7b153ae0b0f48fb",
           "SHA256": "f5223da26ce1b278ecaf89223a00ab1e988845bed8b55519c5893092e93cf22d"
@@ -9663,7 +9663,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "a976396c173c978fe5534695d0e93e93",
           "SHA256": "c9716888a943898fb9b733cb3898ef3986a9e8b910d0056435bb36395ead3347"
@@ -9683,7 +9683,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.02-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.02-x86_64.apk",
         "Hashes": {
           "MD5": "8af31ede6096e1e4ab4d37140904bf2c",
           "SHA256": "5ea6679f1958244840f8226bf48dbafa1a606de2f91a5b8439bbe4977e2306e1"
@@ -9698,7 +9698,7 @@
     "Version": "1.17.0.50",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.50-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.50-arm64-v8a.apk",
         "Hashes": {
           "MD5": "86cd8f8d1563c28536ae57b94740e001",
           "SHA256": "ef4edae4b837ca73cbf9df5b60977e23c8c12d294966a5f4681ff24ed1923dc8"
@@ -9708,7 +9708,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.50-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.50-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "d0299c3b3128d50d25e176332584b5c5",
           "SHA256": "f1205599b94cfc75a9a72c10fb69fc780d1b0c2a2e45d4f174d1c17610a09c73"
@@ -9728,7 +9728,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.50-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.50-x86_64.apk",
         "Hashes": {
           "MD5": "78ff7e4d9ab75bced82f4d622a164192",
           "SHA256": "c8432cf01ee2ef9a2bf30d7fe65c6e4d53be343000c6bfd1ae3aeb83fc0de096"
@@ -9743,7 +9743,7 @@
     "Version": "1.17.0.52",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.52-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.52-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ac0996295618a9f0c05e67efe02843b9",
           "SHA256": "90e457f457b6d31e20ed511fe0e6fc18ed3b80e43f5f2fb631b71c580fdec9b2"
@@ -9753,7 +9753,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.52-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.52-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "ca780554cfb5b30df8b435a0ac775cd3",
           "SHA256": "5c99de24d9f0a3e36a0335450d8cd6a6d6b2e84c22895f04c6130cfc1672e2b3"
@@ -9773,7 +9773,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.52-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.52-x86_64.apk",
         "Hashes": {
           "MD5": "a893a18c6ad3c378e5d1e23b664bdf89",
           "SHA256": "574fbc33f901dfb537da5b66e1cab014aa0426d5047ec9ea427ed5faf018e5f4"
@@ -9788,7 +9788,7 @@
     "Version": "1.17.0.54",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.54-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.54-arm64-v8a.apk",
         "Hashes": {
           "MD5": "49f816d865b0b80013aa4567df5df33b",
           "SHA256": "6a8d118a57fc6f69f6b8f5bf359b06db7ef195a1a725f54d371d07b40fc70320"
@@ -9798,7 +9798,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.54-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.54-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "034849dd59a84174c7d8a9b2f3b9871d",
           "SHA256": "f029898a4bf6d699cba5e4aabcbe21a9e540eed167203104b837e9daf4b613da"
@@ -9818,7 +9818,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.54-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.54-x86_64.apk",
         "Hashes": {
           "MD5": "9b8a8ce104bece5bb05c54f43677ba7c",
           "SHA256": "2dfe5de003f718a5184dd1783d3977479b1eb6435090d72e02b46db2d12d5aea"
@@ -9833,7 +9833,7 @@
     "Version": "1.17.0.56",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.56-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.56-arm64-v8a.apk",
         "Hashes": {
           "MD5": "6116228ea31479cf024a29ae2f67b7d0",
           "SHA256": "cb70a5fe58b43e7b95e01bf0a517fd44ce03aaf8da6762be7242968db608362b"
@@ -9843,7 +9843,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.56-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.56-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fbba95671c78e24679528948282a146a",
           "SHA256": "bea0f9334b4e839a3c59909e16fb8757831534b5ed458e93d66f4d63df86c7f2"
@@ -9863,7 +9863,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.56-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.56-x86_64.apk",
         "Hashes": {
           "MD5": "0bab5f3f103cf1a0619f1fa26be64325",
           "SHA256": "678c1bb8d20ae8b07ace126b0add712d3388074ee023f39335d4b960a0dc61dc"
@@ -9878,7 +9878,7 @@
     "Version": "1.17.0.58",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.58-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.58-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ffe44aab5d9c01d3ba9bb259d7b6956e",
           "SHA256": "010d5754d37d15650a49c24d25f85d787601a81efb555aad12ace2f4327f0386"
@@ -9888,7 +9888,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.58-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.58-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fb400cf82e9caed0247f96f67ffc3969",
           "SHA256": "d64d674d442334347aaedbd8442fec6edb1c8912fa68132dbfcf327729caf945"
@@ -9908,7 +9908,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.0.58-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.0.58-x86_64.apk",
         "Hashes": {
           "MD5": "cc0107dcdeaf13a0b720a8564ba8aba7",
           "SHA256": "554a52600181931ffda75b419999aee6aca012bd5e60f9017529341057cb03fc"
@@ -9923,7 +9923,7 @@
     "Version": "1.17.2.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.2.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.2.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "6180a112a2f36810170d90e3b0b6d3c3",
           "SHA256": "cd0b0375f3e4262f7e7e5f7a84b96f7d5f76fbfa75623c1925065b7189e9059d"
@@ -9933,7 +9933,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.2.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.2.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "74d70f4d438d26d3ec5ef3a66529edbd",
           "SHA256": "8a09928f617e8dcc1644b4153a8707d28cb6a17a4944cfa9ff4cd5990587e9bf"
@@ -9953,7 +9953,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.2.01-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.2.01-x86_64.apk",
         "Hashes": {
           "MD5": "bf1a3906b2486af9f486af0b5bcee67f",
           "SHA256": "bc4c42cbd7cebebae3293f4ff320f42eed2aa11b54a13b2ef1fc32dc3c4846d4"
@@ -9968,7 +9968,7 @@
     "Version": "1.17.10.04",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.04-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.04-arm64-v8a.apk",
         "Hashes": {
           "MD5": "b6200f4f733cf06ca14e58215842a31b",
           "SHA256": "09ffb3cfb67f2a91955043ecc4b69609c9b58c296767f54b5fd1d99ff15b2456"
@@ -9978,7 +9978,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.04-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.04-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "e19e9b25d7309b529183297003e59d83",
           "SHA256": "d84ae36c5396a3815fabb4374aa7a380316b891183b178b5845ea39938991754"
@@ -9998,7 +9998,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.04-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.04-x86_64.apk",
         "Hashes": {
           "MD5": "972d3a979c6746eea7d32c941430e29f",
           "SHA256": "8512b13d2d12439aa83101c416102acdc3fc09cbe5557e3269a5c8e0976a8f23"
@@ -10013,7 +10013,7 @@
     "Version": "1.17.10.20",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.20-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.20-arm64-v8a.apk",
         "Hashes": {
           "MD5": "b24ff13fa326aa154019961ea0a4ed20",
           "SHA256": "3d2bb63818548967e316ca93a442cb30798ca08d6ee94bc6fe3bb8435e21cded"
@@ -10023,7 +10023,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.20-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.20-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "c27b9dccd4dc626ead289f852164409c",
           "SHA256": "55395b4eb2a74a9b76bb0805bce4b6e827479217b86bca9240077a8ae30baf4a"
@@ -10043,7 +10043,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.20-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.20-x86_64.apk",
         "Hashes": {
           "MD5": "e3e1e557d64e85dabe47346698682ede",
           "SHA256": "9610ee0e2974c2d4246b8e179b8ac72bc80eb7bd95c61155490e067f771b2111"
@@ -10058,7 +10058,7 @@
     "Version": "1.17.10.22",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.22-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.22-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c4d777944636acfd653d284d8d404c7a",
           "SHA256": "af84a874589468f6cc2adfb6ec8827a86a4860e5c94ac110d750e7b1a4763427"
@@ -10068,7 +10068,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.22-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.22-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "152c2f68c1c5cbc0d45c1250caa7ca78",
           "SHA256": "8cb5a07c5edbb14bcbcc5a82c2cad854d99f210f01d24274cafc367a16779642"
@@ -10088,7 +10088,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.22-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.22-x86_64.apk",
         "Hashes": {
           "MD5": "825423dd2905ba14df911462f5b48ab5",
           "SHA256": "a0d50ee020082e704738c21239b1a6a0cf90cd2db698d6f6e7017d84901e0c6b"
@@ -10103,7 +10103,7 @@
     "Version": "1.17.10.23",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.23-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.23-arm64-v8a.apk",
         "Hashes": {
           "MD5": "2de32df69604ebb1c722530daa9255ae",
           "SHA256": "6df90107c408be4959985fe39bbed37e3cd07e1d8fdcfbc87f207d9a71587928"
@@ -10113,7 +10113,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.23-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.23-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "7dc63a3eaa5ca7363351eda0a5c35aa3",
           "SHA256": "d6279f1cd9af2377471fd25eae8f7639e619f8ff1ac6bb78ef6e5aee5d0c2dba"
@@ -10133,7 +10133,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.10.23-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.10.23-x86_64.apk",
         "Hashes": {
           "MD5": "cabaef99bef036a838e975b30e1dd042",
           "SHA256": "8fcda67e058b46523f355d4302157ec88d34d505885a671a0530149145b7dd2d"
@@ -10148,7 +10148,7 @@
     "Version": "1.17.11.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.11.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.11.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "cb1b439cdf14087ca99780500af5a7e7",
           "SHA256": "76daba1f7167990cd86974767c9dcdb43c4632cb2f358422bd60a6ca77edfca8"
@@ -10158,7 +10158,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.11.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.11.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "48ed8cc24ea4464ddcb53330161bb08b",
           "SHA256": "df7d1d2a80e0dec0a318f310b8d0abc71fa87f818e449772690a85dbe93c348b"
@@ -10178,7 +10178,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.11.01-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.11.01-x86_64.apk",
         "Hashes": {
           "MD5": "45e6874701b5c6659148fb39f2d7b9bb",
           "SHA256": "0fd044a901bf14a348ff1e2a478d22b40bd2736f72e22aa3b1d38e287b2c4f2b"
@@ -10193,7 +10193,7 @@
     "Version": "1.17.20.20",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.20-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.20-arm64-v8a.apk",
         "Hashes": {
           "MD5": "8e5952514caa228a90cea4c78b52a76c",
           "SHA256": "5deafa548cb34943fdcd8594ab3cb8ad16c5dee93da6c588ad3e98de2287ceb2"
@@ -10203,7 +10203,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.20-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.20-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "2767b266ae475ddfb6cc4dcfb664ea34",
           "SHA256": "24f4fa84c6ab64f305cce7580132e1a4301239aa6ecce36ea165219b0e699abd"
@@ -10223,7 +10223,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.20-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.20-x86_64.apk",
         "Hashes": {
           "MD5": "0c1df1e62808f6dd882f07295c87bc7f",
           "SHA256": "b1e1a90de8d050527720beaf1ed1ee7809d962db1cee08ad8ba84420bcfde5b0"
@@ -10238,7 +10238,7 @@
     "Version": "1.17.20.21",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.21-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.21-arm64-v8a.apk",
         "Hashes": {
           "MD5": "00b618b53d14c7e2445e09da5116fa22",
           "SHA256": "deb48781b84fa4e598d35b929dd65a6cd6a1765192e11378fdfd5cb7a933137e"
@@ -10248,7 +10248,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.21-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.21-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "1ecfa12ea8e22c2ef1b792291ff1bd0e",
           "SHA256": "a4ca01fce07263b2fd53c0f1cef229f49769fa5f4d70d57d1cb3c2a57b660b05"
@@ -10268,7 +10268,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.21-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.21-x86_64.apk",
         "Hashes": {
           "MD5": "2e2bf4b0a0b799b1c55b8572e43c501b",
           "SHA256": "433d759d3ea3e743d2a981b9526b81cae41f0c33385a5ac25dfc60a86e07c3dc"
@@ -10283,7 +10283,7 @@
     "Version": "1.17.20.22",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.22-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.22-arm64-v8a.apk",
         "Hashes": {
           "MD5": "5e8dea673a2744b40476d62409629674",
           "SHA256": "6eff1f4e774cc6452372846a3d07ee74621fb75df1499fa426c512bf3afde9dc"
@@ -10293,7 +10293,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.22-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.22-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "62835ca3aa4d9ab74caeb020ac991c71",
           "SHA256": "ae842e54a0f2967f3fe303455f5d377d62490f8581e4d3175352da5d766d0059"
@@ -10313,7 +10313,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.22-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.22-x86_64.apk",
         "Hashes": {
           "MD5": "ab8df327d4399584a3b6f56a7ad23a06",
           "SHA256": "c5f8ac255830ce0f19aad1f7ff147be8b4dc8d8dbee7b629bc1474ec3451ba66"
@@ -10328,7 +10328,7 @@
     "Version": "1.17.20.23",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.23-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.23-arm64-v8a.apk",
         "Hashes": {
           "MD5": "8199e68738f8b4466f1cfcb3e7846270",
           "SHA256": "eecdcec6a34ec819dc5c55f4cfcb41db2a437f1eddb6a86098f14571c9b9c989"
@@ -10338,7 +10338,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.23-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.23-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "5d2e4db1dcdee65d42438e7e06720401",
           "SHA256": "0f1d03e1174dbc11804a32f940d14b408ee544021336079aa2569dca3ef7e921"
@@ -10358,7 +10358,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.20.23-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.20.23-x86_64.apk",
         "Hashes": {
           "MD5": "e8dd549c091d13c528662c94323540b7",
           "SHA256": "0533744c4baa995fa8eb4f0881a105fc710a32316e4a8e53449502ef40158014"
@@ -10373,7 +10373,7 @@
     "Version": "1.17.30.04",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.04-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.04-arm64-v8a.apk",
         "Hashes": {
           "MD5": "691ed6d0a42355c39533e4234cdcadcb",
           "SHA256": "54db405493b83992a5b13a5d7ce953a3dc61b0a776d4a00d2009f510d87b6d06"
@@ -10383,7 +10383,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.04-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.04-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "8620fd9e70c91edf51e5c7bc132a7b5c",
           "SHA256": "c5eeb94294614a959cda634581a86d6cc6667326481d4eeb958aadfbf8baedf2"
@@ -10418,7 +10418,7 @@
     "Version": "1.17.30.20",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.20-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.20-arm64-v8a.apk",
         "Hashes": {
           "MD5": "86080001cfa00bca241da5f88ace3ea5",
           "SHA256": "22fd3eb0c35e4bd49ace57706b6bb7acffb439e07860ceaf54d1e3b2fb9f9642"
@@ -10428,7 +10428,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.20-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.20-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "d02ad92742c779fbf2cd0324ff396e75",
           "SHA256": "15284abf65a5034ceddc306f3f25218a6157b901db3c8f22ad6dcb0609d14c2a"
@@ -10448,7 +10448,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.20-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.20-x86_64.apk",
         "Hashes": {
           "MD5": "7b103344201cd1aee70396eb1a6f3ffb",
           "SHA256": "e15d741c6d092e7dfc6ace1e3f035ec4fbdb779c75f9797e59a9b41044254d98"
@@ -10463,7 +10463,7 @@
     "Version": "1.17.30.21",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.21-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.21-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ad5e955706983faa07ced72ba8f03ead",
           "SHA256": "d7cc8d1a943bfff06174365f843e39ffea71223e5b8818db14cf907e3d74461f"
@@ -10473,7 +10473,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.21-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.21-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "5f1e06dc005a2c7df1588bf80d8172d7",
           "SHA256": "fc8922df877c49a455bc48aa2acc2cb7703b6e859eae44a158f608d9f9e6fa28"
@@ -10493,7 +10493,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.21-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.21-x86_64.apk",
         "Hashes": {
           "MD5": "7dd2ebc6bf85c54598d98a62b01dbf6a",
           "SHA256": "550bf59954f814e3f00636e9f3779df6099804e13dcd9fc05a43bd0008428868"
@@ -10508,7 +10508,7 @@
     "Version": "1.17.30.22",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.22-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.22-arm64-v8a.apk",
         "Hashes": {
           "MD5": "f3aefa788ed46c69e72d0b47595bc636",
           "SHA256": "d7903ae34df32a47003a70ec0a3b52d604c9e9e982dca3e54ee9392390c44154"
@@ -10518,7 +10518,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.22-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.22-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "3941722bb7e39732f311eda1c835e1d9",
           "SHA256": "3a3f3ef1cb4bce3525cdb538dd2f84db7d7c7856855fd4bac9d995b647b13d8e"
@@ -10538,7 +10538,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.22-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.22-x86_64.apk",
         "Hashes": {
           "MD5": "145654b18ca6976205ed44f46cbe6bbf",
           "SHA256": "c1c7c8c1cca4a7fb292efc1459d5cdac6d0f566e1426b2cf6a17d4b271add015"
@@ -10553,7 +10553,7 @@
     "Version": "1.17.30.23",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.23-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.23-arm64-v8a.apk",
         "Hashes": {
           "MD5": "61f1398c7284b45bcf39e4b767b250b4",
           "SHA256": "8db5e55a83ee8f3507027616a1e4138dea2e26556b01c558e5c35bc38616cff7"
@@ -10563,7 +10563,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.23-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.23-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "849b1ac5186d4ee176635d46162262d7",
           "SHA256": "8a656adb9a6e65af504d2845ff399915377385ca19938c2ac4752295f860ac4d"
@@ -10583,7 +10583,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.23-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.23-x86_64.apk",
         "Hashes": {
           "MD5": "30f6863490a66187870a53d02202b3ae",
           "SHA256": "de0d4272325681213d5de0696a2ac7e71a76e9954d1e4f28c5292b5da71edfb8"
@@ -10598,7 +10598,7 @@
     "Version": "1.17.30.24",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.24-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.24-arm64-v8a.apk",
         "Hashes": {
           "MD5": "c0cc55dd8a7171c3fe9b41aacca759f6",
           "SHA256": "cb4de4565370a5546f3964bbff8c3a999716ffb1d4bdd788558dda4df1eade41"
@@ -10608,7 +10608,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.24-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.24-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "b07a75f62ce3223e5cc19639c0200e63",
           "SHA256": "f9613636eea9e96b4071b46af0aa776d3ea4f98c4e805e4b82b4e18ecac0efe4"
@@ -10628,7 +10628,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.24-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.24-x86_64.apk",
         "Hashes": {
           "MD5": "b7da28ecddb3160bf91c532a5c2f784a",
           "SHA256": "02b72e243078de430edb80375555a65d0c3dbbd5917001ece2dbda5a75d08fc5"
@@ -10643,7 +10643,7 @@
     "Version": "1.17.30.25",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.25-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.25-arm64-v8a.apk",
         "Hashes": {
           "MD5": "4451daa8ac7fb5a4430015bf76f64acb",
           "SHA256": "d1b483d7201c7734073cc5f45cc772b690d4e7c548fcf5b08acb2c659dd76883"
@@ -10653,7 +10653,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.25-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.25-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "f46058f13d0f49c719342efe9f708b45",
           "SHA256": "b1550dfcf52b34d497a208264d450b2fc8314bcafe0118b9aa395e9fd2dec7ab"
@@ -10673,7 +10673,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.30.25-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.30.25-x86_64.apk",
         "Hashes": {
           "MD5": "e4ee67292c75d895dfc223914da36a26",
           "SHA256": "be2a9152425892928ff84b43844a00deb998bb6ded2e7dd31740edfd3d919447"
@@ -10688,7 +10688,7 @@
     "Version": "1.17.32.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.32.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.32.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ab7db4c4e42f43c6d709b4b947f8a823",
           "SHA256": "51a1218b4205d16e3d67722a48ac611916d605fe870d7b48aa01a499fa5ae71f"
@@ -10698,7 +10698,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.32.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.32.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "ac310c6d246dc83c2371921d3cc6db23",
           "SHA256": "2168d210f4b6204df87da67276a6b15719ede810ff628f3099b132c33ec0d0b9"
@@ -10733,7 +10733,7 @@
     "Version": "1.17.34.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.34.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.34.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "9c7fb9ab9291e11ea242af58b07353d9",
           "SHA256": "6fcaf6e1edf1c7c6fd33d57faa41cd56d5b3eb27a49ff287d283cfc9e13a6644"
@@ -10743,7 +10743,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.34.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.34.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "42708ee0127a2b31bc6f9442f5160d5f",
           "SHA256": "2306f7d9fcd707e688b870b365b475855443ea9112b0625729184007ef5eeca9"
@@ -10778,7 +10778,7 @@
     "Version": "1.17.40.06",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.06-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.06-arm64-v8a.apk",
         "Hashes": {
           "MD5": "3e70e1f2f2605f5cb2415ac24400d21f",
           "SHA256": "b4bafaadf6aab7f9b5a355465f9ac7de11061ac534ea565d7dd3d806641c0a17"
@@ -10788,7 +10788,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.06-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.06-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "8f77292e6f27b5f5443aaeb5cd8f549b",
           "SHA256": "80cdb860e240d59ce3695d55e9c054f003359a6a4c036ecbc2a41d015691fef9"
@@ -10823,7 +10823,7 @@
     "Version": "1.17.40.20",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.20-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.20-arm64-v8a.apk",
         "Hashes": {
           "MD5": "103b9fe3de08ec63104341f3684427ab",
           "SHA256": "8eb9027cef6b8c37e01eb59fd049639728b14967ed01eb6d9da52907cb777380"
@@ -10833,7 +10833,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.20-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.20-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "5ebda5380eb2fd4655c2f91496ebf529",
           "SHA256": "bd39d6a279c09a5c678f08a956a81e84884ce4bc418cf0e115000e1659e5eb15"
@@ -10853,7 +10853,7 @@
         ]
       },
       "x86_64": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.20-x86_64.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.20-x86_64.apk",
         "Hashes": {
           "MD5": "89b1c844d33a53fe0358bce38817f28c",
           "SHA256": "18819c2f03115744c9d8a0a9549f5eb53971063a51e7331fa561fd8ca99e9ae2"
@@ -10868,7 +10868,7 @@
     "Version": "1.17.40.21",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.21-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.21-arm64-v8a.apk",
         "Hashes": {
           "MD5": "37b8bcb3ab089706ac5b5c0cfa293339",
           "SHA256": "5a76d1f9ecfcddc25a8eaf0fa8260469135a9bbc9a1d78bdabee5817102a6c8f"
@@ -10878,7 +10878,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.21-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.21-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fc2d06b93c5d6465c332be9a68a4c623",
           "SHA256": "df46f3b29cca740797193203974a72652494a70df8f3c1d75dd0d1d1eaf7a5c7"
@@ -10913,7 +10913,7 @@
     "Version": "1.17.40.23",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.23-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.23-arm64-v8a.apk",
         "Hashes": {
           "MD5": "8c0b90ac8dc0d55384b16fdc3bcc8e48",
           "SHA256": "27a1a26fd41c6fb20efc3bd227732d9eea04979e70a7f5b755c67f3338f12365"
@@ -10923,7 +10923,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.40.23-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.40.23-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "3441e8aa938dbd5b2d51d236f73682de",
           "SHA256": "be344c74e3b6fde9ddf1601c4e248b6445d777517c31ed20d04fd52847096505"
@@ -10958,7 +10958,7 @@
     "Version": "1.17.41.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.41.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.41.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "bbfb90b94d88bdddde70e89f335ea6fd",
           "SHA256": "2937cf7ad5011b8a153334486b14f58261615c050c3898430c0470c0eeabf993"
@@ -10968,7 +10968,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.17.41.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.17.41.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "fecfcc7cd50e7d28ec24e298d52ab75f",
           "SHA256": "0d6c7aef6e3f3cfe3406ce476e275423aef00835e05c75770179cc4d24387d7d"
@@ -11003,7 +11003,7 @@
     "Version": "1.18.0.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "51ce6094294f2f637182b0a4157ba547",
           "SHA256": "cbe7524abd96d7deedc483fad65e6e328f4ac7eaf488e8b2eeb5ee9fba280c51"
@@ -11013,7 +11013,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "656a20c1202f01dd55d9836e969ea0b7",
           "SHA256": "192cdff3c476c4574414f0970fa6e17a5ae57085766e9b727d3a3e38668610bf"
@@ -11048,7 +11048,7 @@
     "Version": "1.18.0.20",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.20-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.20-arm64-v8a.apk",
         "Hashes": {
           "MD5": "a17208a49697ab5c1fb79a3f96abc3ef",
           "SHA256": "e1edc3bb0c6c7fc0c5fcc4b6dc5f08e46f05af4b8ad0dedabb16a8b30bd87c12"
@@ -11058,7 +11058,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.20-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.20-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "7edf360f3787a8290ac071d1285a539e",
           "SHA256": "499f98593778d32e7fb018535a1fee513b528b8bfcdebb178861ec0cbe351767"
@@ -11093,7 +11093,7 @@
     "Version": "1.18.0.21",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.21-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.21-arm64-v8a.apk",
         "Hashes": {
           "MD5": "288c59a97e39d86b4c271fbc281e119b",
           "SHA256": "f55d555d208caaac34b5fd2f941c757f1b710f66f9a3c31aba7699d18c1deed4"
@@ -11103,7 +11103,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.21-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.21-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "6675e08cd62e48d2eb9777d55beea3a4",
           "SHA256": "15c493530bd1c1755c4697d4030edfe6da2d07d4968b6c1af2e698291598d3f8"
@@ -11138,7 +11138,7 @@
     "Version": "1.18.0.22",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.22-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.22-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ea3d34628ce7e5ad8876fafa6d600f34",
           "SHA256": "e7c377c7a226db2a38e64868e6029ae018deb675e9f4b4a5184b12ac1d8068f0"
@@ -11148,7 +11148,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.22-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.22-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "07b4bd5ab333eb7bf37262aa6c4129ba",
           "SHA256": "9b88b51a9ce7f96767efea1b6b584e6d04449f68c1b06b13a616941217bc3387"
@@ -11183,7 +11183,7 @@
     "Version": "1.18.0.23",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.23-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.23-arm64-v8a.apk",
         "Hashes": {
           "MD5": "5a1f905488e8f501022eab276019a4e5",
           "SHA256": "c27f34d7f6e0e3c3eb7a127797531afcb0817e294fa4fccd6b8606d91558ee9e"
@@ -11193,7 +11193,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.23-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.23-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "17f74cd034ee87eba3d6e6f553f31ba7",
           "SHA256": "ed7600b76685e12f04aa95812a685294cb7ef08aa4a5de5ebe471e519348d2aa"
@@ -11228,7 +11228,7 @@
     "Version": "1.18.0.24",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.24-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.24-arm64-v8a.apk",
         "Hashes": {
           "MD5": "503503741a0907e0962ade878a16d680",
           "SHA256": "86b3b615795494cafc71f22cf12f1362c7a420d7c6aa0373eafb49fb0af5de33"
@@ -11238,7 +11238,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.24-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.24-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "f4567f91bc4227ff9372a69118cbb9a4",
           "SHA256": "65e23fbdf4e4ea77333d5bd06466f2d388e8ff0b783770b3bd7f67a25c6b72e9"
@@ -11273,7 +11273,7 @@
     "Version": "1.18.0.25",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.25-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.25-arm64-v8a.apk",
         "Hashes": {
           "MD5": "ce3ece1cdd363b3611a26d271a13416f",
           "SHA256": "7b26be86552b1ed7cbf0fb5df8d21339d33cf99f432c58ef821de27ff7f154a6"
@@ -11283,7 +11283,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.0.25-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.0.25-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "76f4a4c0a700dc259ae1b93a6e6315c5",
           "SHA256": "6085865fb6a1be7ec3f225b63822bbace619c50befef37dd71456e8447759b48"
@@ -11318,7 +11318,7 @@
     "Version": "1.18.1.02",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.1.02-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.1.02-arm64-v8a.apk",
         "Hashes": {
           "MD5": "530e30d8d829ba92641eac2e9a2f8081",
           "SHA256": "f7cabec897e9ab468bbc4b34cbe08065845769515e5095cb70e8b847658a2736"
@@ -11328,7 +11328,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.1.02-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.1.02-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "cf41ff9014e2e2f707b04f9a6d4ad923",
           "SHA256": "8bea94cd99619cec68b086effbf293bbedb5884dd5d219e22026e013d3022984"
@@ -11363,7 +11363,7 @@
     "Version": "1.18.2.03",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.2.03-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.2.03-arm64-v8a.apk",
         "Hashes": {
           "MD5": "28b6545882ddfee3e6565e4e23825263",
           "SHA256": "033e87eb2650fa43ad6ae1882bf2787565f93ed13e6841b50e31b1f39471ddd1"
@@ -11373,7 +11373,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.2.03-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.2.03-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "ef852b0c536fe2c8fc5c37414da86304",
           "SHA256": "6b73cedc0d853e8b1afa5107c92d8c2dcf4bb1550d4ee8f5e975b8efa1606b65"
@@ -11408,7 +11408,7 @@
     "Version": "1.18.10.04",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.10.04-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.10.04-arm64-v8a.apk",
         "Hashes": {
           "MD5": "822193a0537c1f2c0ba6176a0fea7d67",
           "SHA256": "dd535cfd2e0b6f19715f7c97ebe8b46870b48e67d7e1e2a9d581e47d56822c25"
@@ -11418,7 +11418,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.10.04-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.10.04-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "f899723d5f0b97a0f26ec0d84d24180e",
           "SHA256": "7160a2ae5d3cc3cfc44c7fefc8f62f28cf50c94a67baa1d0aa5833f90095b9ed"
@@ -11453,7 +11453,7 @@
     "Version": "1.18.12.01",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.12.01-arm64-v8a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.12.01-arm64-v8a.apk",
         "Hashes": {
           "MD5": "99f28f7597980b3176b738ab7c8b9819",
           "SHA256": "ecb0f147d3d98eada1a279202261baecee62989afd884b608801d84e2c5372f2"
@@ -11463,7 +11463,7 @@
         ]
       },
       "armeabi-v7a": {
-        "FileName": "\\\\192.168.1.5\\Archive\\Minecraft\\Android - com.mojang.minecraftpe\\com.mojang.minecraftpe-1.18.12.01-armeabi-v7a.apk",
+        "FileName": "com.mojang.minecraftpe-1.18.12.01-armeabi-v7a.apk",
         "Hashes": {
           "MD5": "b5c75df91ff9718a96f2ffa02b822313",
           "SHA256": "d1db1e0340c89f9a9f6aae434476084229800dde633f7ee288e6589936ecf51d"
