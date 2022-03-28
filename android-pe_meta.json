@@ -6503,10 +6503,10 @@
     "Version": "1.14.60.5",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.14.60.5-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.14.60.5-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "2361063fde5b9258944bda2ec63a946a",
-          "SHA256": "fdd8875a2ad1ef54a074263d37bade2640df46932c8675a9f15a874ddd0585f6"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943146005"
@@ -6533,10 +6533,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.14.60.5-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.14.60.5-x86_64.apk",
         "Hashes": {
-          "MD5": "755f83d9d05bf3a0c031bc8475a9105e",
-          "SHA256": "cafecc3283a6590128be0ba350de36b08c0299d8c173a25692ca119da945f866"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944146005"
@@ -6818,10 +6818,10 @@
     "Version": "1.16.0.55",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.55-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.55-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "2a3212bfff60ae8af88a4e038ef14a40",
-          "SHA256": "a7b97b611f9f13dadd651bb69fb34a30daab297af451d5d6383e78dad1cb1801"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160055"
@@ -6848,10 +6848,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.55-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.55-x86_64.apk",
         "Hashes": {
-          "MD5": "cb07c8acc2bf56b21acff5ccbdde6a6f",
-          "SHA256": "f88278ff4cd72fc99f1ec35870c733532ec1b4e71333465c82046b8d379b277e"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160055"
@@ -6863,10 +6863,10 @@
     "Version": "1.16.0.57",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.57-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.57-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "58cbdebd29f5746d53859ac61e6b418c",
-          "SHA256": "f5c025e2cef38d36b22cfb65e4e60f63e7238b461914818124f1a03a92d85bf8"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160057"
@@ -6893,10 +6893,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.57-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.57-x86_64.apk",
         "Hashes": {
-          "MD5": "8557a710b506c28d2cf257b17d25ab29",
-          "SHA256": "83c8e7239fb49b658d79ed2607c4b0314f6e04dab0fee5145ebfd4682e0f36d6"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160057"
@@ -6908,10 +6908,10 @@
     "Version": "1.16.0.58",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.58-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.58-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "d1eff66e0376e42506e68324a20947a2",
-          "SHA256": "ae6d8eb789b3e6d309c56d81de793d890fc80e2603c78d177546315773fd278c"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160058"
@@ -6938,10 +6938,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.58-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.58-x86_64.apk",
         "Hashes": {
-          "MD5": "65e756fd51c396288038cf3ecf5b199b",
-          "SHA256": "d11b54295c619368487add99dd589f7aaf73e52edad72ecf6a3c26611ad6f7f2"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160058"
@@ -6953,10 +6953,10 @@
     "Version": "1.16.0.59",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.59-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.59-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "43a218b400928736c783d580250f3e7a",
-          "SHA256": "0a52493090b5fd2125408b55b3e8129ae7566d0a8a0036173a993d0513df4371"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160059"
@@ -6983,10 +6983,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.59-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.59-x86_64.apk",
         "Hashes": {
-          "MD5": "97baaf44a8666fbd7e5d66a210e4f809",
-          "SHA256": "200d2fc3a9deae585eeab88a6215331cad8acab0e74ce70cd5b7c993c1dcd933"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160059"
@@ -6998,10 +6998,10 @@
     "Version": "1.16.0.60",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.60-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.60-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "8e712d4eeada537e758aa16cb0a35cda",
-          "SHA256": "cf0e132fd131b6a4ccfcf8e39ac7683cfb24e7046cb48c8dcda51721a3c057a0"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160060"
@@ -7028,10 +7028,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.60-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.60-x86_64.apk",
         "Hashes": {
-          "MD5": "ac06d285798e15557d72f3da5ff2912a",
-          "SHA256": "2c59517de517a078fa2c954d2c35ff81a8df18239c6212a69f39262e123a8e51"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160060"
@@ -7043,10 +7043,10 @@
     "Version": "1.16.0.61",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.61-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.61-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "ecb089c58fd6675f7ee87787b3c53537",
-          "SHA256": "1871e5a92801ec30df1d9ef9bfc91cd2e9e5328713c25a23340974d9e30ffa0f"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160061"
@@ -7073,10 +7073,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.61-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.61-x86_64.apk",
         "Hashes": {
-          "MD5": "925192e2934b80db14773f9ed5351199",
-          "SHA256": "4ef99869d8948ecf159fef6fca5274e7ba2fb2a45f14bce0905f49f7b414afd7"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160061"
@@ -7088,10 +7088,10 @@
     "Version": "1.16.0.63",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.63-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.63-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "41daa0c8d4630809c45811b27b3ca638",
-          "SHA256": "e3e44780814b1927d5dfa3609a060adca9aab15be66d42a1de8136b3c9250a81"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160063"
@@ -7118,10 +7118,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.63-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.63-x86_64.apk",
         "Hashes": {
-          "MD5": "6f3f5a27b1db282d30384e1d1cfe5a60",
-          "SHA256": "99d96d8ae83aa2096f727656e58bc3421d93aaf850d03823d5644d2b56b1154d"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160063"
@@ -7133,10 +7133,10 @@
     "Version": "1.16.0.64",
     "Archs": {
       "arm64-v8a": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.64-arm64-v8a.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.64-arm64-v8a.apk",
         "Hashes": {
-          "MD5": "26996bb19432d25b1924fcc57b97dde0",
-          "SHA256": "b7a958f69edff52fdad42cfe8be81aa1d6fe54311bc3b6e1ebca4c4522ff6150"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "943160064"
@@ -7163,10 +7163,10 @@
         ]
       },
       "x86_64": {
-        "FileName": "com.mojang.minecraftpe-1.16.0.64-x86_64.apks",
+        "FileName": "com.mojang.minecraftpe-1.16.0.64-x86_64.apk",
         "Hashes": {
-          "MD5": "d8debf9850de811838ffffe014f551e1",
-          "SHA256": "355cce353b0f1792342b541474b072b48cfbc9593758a015d4b0b8b52500c059"
+          "MD5": null,
+          "SHA256": null
         },
         "UpdateIds": [
           "944160064"
