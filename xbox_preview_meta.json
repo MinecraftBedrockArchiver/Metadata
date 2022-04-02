@@ -1,1 +1,17 @@
-{}
+{
+  "1.18.30.33": {
+    "Version": "1.18.30.33",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPBeta_1.18.3033.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "219b4112d661b863fffc981ae256abf2",
+          "SHA256": "95b90434d63daf6f5997d93d5f09eba731892283f0848af2c2ff430b183d5f46"
+        },
+        "UpdateIds": [
+          "6c6b3c21-fbc7-4715-bf31-b33aaf637587"
+        ]
+      }
+    }
+  }
+}
