@@ -6417,6 +6417,7 @@
           "SHA256": "049fb8848d469158b4b2989e44cf4e1afce903ceabd5c6163094b63f5813e0c6"
         },
         "UpdateIds": [
+          "7b4da56d-ce2d-4102-98f9-b97b72cae1a0",
           "2018a2bd-c90c-426b-84b1-c5ecc53bea9f"
         ]
       },
@@ -6427,6 +6428,7 @@
           "SHA256": "ce96faf54a30e5e20b02c14035e02d6e542e521dc73f0eedfab705dfc56e05ea"
         },
         "UpdateIds": [
+          "b1f54c86-ff4a-4eca-92c3-20a98bfac153",
           "cdd71601-cacd-4926-8f37-1970e00bc82a"
         ]
       }
