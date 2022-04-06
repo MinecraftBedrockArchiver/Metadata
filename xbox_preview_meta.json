@@ -20,8 +20,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWPBeta_1.19.21.0_x64__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null
+          "MD5": "b2cbfd7a2bd64fcbe5baec81749a0977",
+          "SHA256": "2defcf1083a65a1e07735a67a0143aaf6503977ea8c7f37d883623c0d0ad9232"
         },
         "UpdateIds": [
           "b2783e76-84ba-469d-a481-7d3836961cc7"
