@@ -13,5 +13,20 @@
         ]
       }
     }
+  },
+  "1.19.0.21": {
+    "Version": "1.19.0.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPBeta_1.19.21.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "b2783e76-84ba-469d-a481-7d3836961cc7"
+        ]
+      }
+    }
   }
 }
