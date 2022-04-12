@@ -1,0 +1,8 @@
+{
+  "W10": "w10_meta.json",
+  "Xbox": "xbox_meta.json",
+  "Xbox Preview": "xbox_preview_meta.json",
+  "W10 Preview": "w10_preview_meta.json",
+  "Android-PE": "android-pe_meta.json",
+  "Android-Edu": "android-edu_meta.json"
+}
