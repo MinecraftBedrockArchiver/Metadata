@@ -1,2 +1,2 @@
-# MinecraftAppxArchiverMeta
-The metadata collected by my instance of MinecraftAppxArchiver
+# Metadata
+The metadata collected by my instance of Archiver
