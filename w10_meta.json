@@ -1228,6 +1228,19 @@
       }
     }
   },
+  "1.8.0.8": {
+    "Version": "1.8.0.8",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.8.8.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "fb5d9790724f1cb10fc83a48aa768ec1",
+          "SHA256": "f4456cff7204ee58cd839db4ca8ef07f2303302d9c6dcc9acce15e4fa22ca5a4"
+        },
+        "UpdateIds": []
+      }
+    }
+  },
   "1.8.0.10": {
     "Version": "1.8.0.10",
     "Archs": {
