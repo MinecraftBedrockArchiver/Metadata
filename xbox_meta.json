@@ -748,6 +748,21 @@
       }
     }
   },
+  "1.18.30.4": {
+    "Version": "1.18.30.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.18.3004.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "2d55ec3a7dc22f14a6a6aa4ffefe7398",
+          "SHA256": "31464c7654f518853846ec17d4f758960b6ba10f78dd506ebdabdda175fdf47c"
+        },
+        "UpdateIds": [
+          "c63c4e5b-a16f-4ef2-a82b-33effba31d47"
+        ]
+      }
+    }
+  },
   "1.18.30.20": {
     "Version": "1.18.30.20",
     "Archs": {
@@ -892,6 +907,7 @@
           "SHA256": "4893f2a83a9f91a7ef609c69791bcbca7173e91ec1cd6b80c4ec29b5146bf28a"
         },
         "UpdateIds": [
+          "0b00d383-5415-4562-9e2a-b0a6a3cf65fd",
           "8c1523a7-47e4-463f-9070-67a6b208529c"
         ]
       }
