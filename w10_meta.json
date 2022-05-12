@@ -7159,5 +7159,30 @@
         ]
       }
     }
+  },
+  "1.19.0.32": {
+    "Version": "1.19.0.32",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.19.32.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "6d16b7633d9f4a0c74632353385f1f20",
+          "SHA256": "654d1b55c871b16521aac788691efe618f21c9b03bcc059191b2053ebe5cb623"
+        },
+        "UpdateIds": [
+          "fef8b6d8-452a-4f37-a98d-cc9f917f4ddc"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.19.32.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "ef11f014e7438d7c8bfa68a395c6b5f2",
+          "SHA256": "8a16a369b16e29ecb11639676617ea57ed3eb386eaac582b9d9faad501b7ab69"
+        },
+        "UpdateIds": [
+          "6f996a57-92a2-4020-97bf-8807b9a54127"
+        ]
+      }
+    }
   }
 }
