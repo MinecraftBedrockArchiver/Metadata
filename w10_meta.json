@@ -7170,7 +7170,8 @@
           "SHA256": "654d1b55c871b16521aac788691efe618f21c9b03bcc059191b2053ebe5cb623"
         },
         "UpdateIds": [
-          "fef8b6d8-452a-4f37-a98d-cc9f917f4ddc"
+          "fef8b6d8-452a-4f37-a98d-cc9f917f4ddc",
+          "8a16c155-de65-406f-b657-9ebf4070b922"
         ]
       },
       "x86": {
@@ -7180,7 +7181,8 @@
           "SHA256": "8a16a369b16e29ecb11639676617ea57ed3eb386eaac582b9d9faad501b7ab69"
         },
         "UpdateIds": [
-          "6f996a57-92a2-4020-97bf-8807b9a54127"
+          "6f996a57-92a2-4020-97bf-8807b9a54127",
+          "545ad0da-c3c3-48e7-a290-32144eb0b030"
         ]
       }
     }
