@@ -889,6 +889,21 @@
       }
     }
   },
+  "1.19.0.5": {
+    "Version": "1.19.0.5",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWPConsole_1.19.5.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "6bd6f60d75b6dcd9d5181603808cd93b",
+          "SHA256": "552f92cc0e5ec9f34679846485989a366b64ca56f22323760ef8aa9ecd7cdb9d"
+        },
+        "UpdateIds": [
+          "7c6aa4c8-44c4-4f9c-9477-d81e6b3fc2e5"
+        ]
+      }
+    }
+  },
   "1.19.0.20": {
     "Version": "1.19.0.20",
     "Archs": {
