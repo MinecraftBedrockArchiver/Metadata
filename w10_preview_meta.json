@@ -516,5 +516,30 @@
         ]
       }
     }
+  },
+  "1.19.10.24": {
+    "Version": "1.19.10.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.1024.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "ed51e043e68a6be74cc8b3b49bc9bafd",
+          "SHA256": "e4e696080b155355d687badd47b95f677d97fd6394dbeb8a0e5c56b695d78618"
+        },
+        "UpdateIds": [
+          "0179e0d4-dd33-4f3c-b76c-be40496fcea0"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.1024.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "92531ac306dab548d1732de4c2ff7149",
+          "SHA256": "5261e0dc58b379abbe1d57c8495dd0d6bc6a99dc692c8d2b08457a2c992160ea"
+        },
+        "UpdateIds": [
+          "b415cb91-bef4-4cc3-af2a-b3c3c8b86c3a"
+        ]
+      }
+    }
   }
 }
