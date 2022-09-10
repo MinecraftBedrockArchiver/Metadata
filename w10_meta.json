@@ -647,6 +647,31 @@
       }
     }
   },
+  "1.2.5.52": {
+    "Version": "1.2.5.52",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.2.552.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "d2c395de6732d0ef2289510b5107943b",
+          "SHA256": "e0484bef424c171c82e72a7ee832f4d6a8162015eed385e5cc8c11b2b6645d97"
+        },
+        "UpdateIds": [
+          "ab8caed2-3351-487e-8a1e-b1daa98d35be"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.2.552.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "76b20eb5b42a88aff758dbe6c8fbaa30",
+          "SHA256": "5b259d0810f495fab39e56b447336ef53c3f28db9f83e059cee81709788dba45"
+        },
+        "UpdateIds": [
+          "8ed3fad9-8dc2-4245-932c-eaacb727ee95"
+        ]
+      }
+    }
+  },
   "1.2.7.2": {
     "Version": "1.2.7.2",
     "Archs": {
