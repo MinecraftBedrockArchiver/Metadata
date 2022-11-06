@@ -872,5 +872,132 @@
         ]
       }
     }
+  },
+  "1.19.40.24": {
+    "Version": "1.19.40.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.4024.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "01f641ceca083485c8439284146e3c00",
+          "SHA256": "67a3a85fb647a1dfc36e7751dfea4bd03d1050f267483ab4e14fcacce876a7a8"
+        },
+        "UpdateIds": [
+          "58ee0e1f-3ebf-4f28-a413-e24f05f8174f",
+          "d54c5515-febf-46cf-9c02-e02db95aa463"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.4024.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "afa24317a22ee6f6908046379c9dbb90",
+          "SHA256": "cbed75607c788c5b85e143981cce661f576488ec5a882df60928ab24f338c90a"
+        },
+        "UpdateIds": [
+          "9a32bc58-02c5-42e2-aa30-1c74516b7a04",
+          "86337e0e-5d22-46ce-8e6b-6527e6b928d4"
+        ]
+      }
+    }
+  },
+  "1.19.50.20": {
+    "Version": "1.19.50.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5020.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "ed27bcded10ffd484393acef6c3406ac",
+          "SHA256": "c5c5b242d6c5d9e1efca2cd6dbba17254df04c4d8cd2e5eb613c1b112e912837"
+        },
+        "UpdateIds": [
+          "6345d3bf-44ac-458a-b137-25919f3e34f7"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5020.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "5e8186c886cfe709c1a8cda75025f6b3",
+          "SHA256": "d955e8cd4a7857b4efebeea246a70779f130b8756c3a4b67ccff125e0ea1886c"
+        },
+        "UpdateIds": [
+          "995006ae-e09b-4a0e-a449-680139cd4e6a"
+        ]
+      }
+    }
+  },
+  "1.19.50.21": {
+    "Version": "1.19.50.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5021.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "4ab30c3e95d89a749bf8c61c86ad5204",
+          "SHA256": "e8c5589126b2a890e15887d1a647ee95c5e0e285d9425cdba7f85ac172be1d53"
+        },
+        "UpdateIds": [
+          "ccf03008-c7a9-48dc-bb50-20bc0487b76e"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5021.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "75e308eb155d043a3c7648fb2ab656fc",
+          "SHA256": "40d726453d9f49d2aa503ae0e6051b60e7a0ed7882daafdf7b2e1a61d9f04484"
+        },
+        "UpdateIds": [
+          "c5e2c852-0e26-4072-b5f6-90a6d905c428"
+        ]
+      }
+    }
+  },
+  "1.19.50.22": {
+    "Version": "1.19.50.22",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5022.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "4bb8f99d76c344ab0657e6a6ae4f534d",
+          "SHA256": "8a656de8159cf48c93d703ddf1c61a3accfbc20c9d7b4c6c1a01556e0e4686c3"
+        },
+        "UpdateIds": [
+          "adcc36b5-0afe-4f13-b0fb-a108896a6bc3"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5022.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "0d5ca30abaccabb941484368dd550801",
+          "SHA256": "ba29d292bc997b17d5ec248015d2f0d653ed95a90f5f39cda2318baa1ec68653"
+        },
+        "UpdateIds": [
+          "aa560623-47eb-431b-8546-15150f02d215"
+        ]
+      }
+    }
+  },
+  "1.19.50.23": {
+    "Version": "1.19.50.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5023.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "f92e51e416d0a04ac8515139108220fb",
+          "SHA256": "fd3ddeef5f44e6a217859098f75dde633008684efd39514bfb18d69350ba5506"
+        },
+        "UpdateIds": [
+          "afb184e8-201e-4d20-9d6e-d48550c2ea06"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.19.5023.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "62d3be1f85a0af0335b90cbaa497b3be",
+          "SHA256": "98037e46fb550cec839e268968c73693f9979c9404e10f33aa3176b685674aea"
+        },
+        "UpdateIds": [
+          "2e191ca8-1537-4558-b64f-5a0796ac7217"
+        ]
+      }
+    }
   }
 }

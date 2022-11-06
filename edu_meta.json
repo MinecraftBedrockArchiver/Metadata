@@ -236,5 +236,20 @@
         ]
       }
     }
+  },
+  "2022.1015.43": {
+    "Version": "2022.1015.43",
+    "Archs": {
+      "neutral": {
+        "FileName": "Microsoft.MinecraftEducationEdition_2022.1015.43.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+        "Hashes": {
+          "MD5": "48a4f33da1d3054d2b27751e24096863",
+          "SHA256": "6aa0f070c5bde1a76f8b01ced56cd5a16a524ee8cb322aa421557dc0db556864"
+        },
+        "UpdateIds": [
+          "385c161c-c788-435a-9d2d-9fd176583c69"
+        ]
+      }
+    }
   }
 }
