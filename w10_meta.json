@@ -7981,6 +7981,7 @@
           "SHA256": "f5c8b08a6c803f69024df49bb72afc4cb07f9d685fcd874bf73bff2833452ae3"
         },
         "UpdateIds": [
+          "37f504d7-28d8-4960-8515-7a36783f76de",
           "0f15ec68-f6fb-420c-aa82-d8500f2aaea6"
         ]
       },
@@ -7991,6 +7992,7 @@
           "SHA256": "94ffeab1c78bc55a0c892780e94bcb5719d0e3edfe71b68963ebe29664c49a65"
         },
         "UpdateIds": [
+          "d8d0c686-68ca-409d-bbd2-68666cd5e338",
           "0ff7b03e-9748-47a9-b6be-4fd6a37e9c33"
         ]
       },
@@ -8001,6 +8003,7 @@
           "SHA256": "e6025781a5f844776ecba716511f285f1c78246276fe6417d4ef9c68aed679e7"
         },
         "UpdateIds": [
+          "bbf4b467-b930-4875-a4af-e28af8fa0fe6",
           "bcd7a609-aef6-4c89-8ef1-18356f483f02"
         ]
       }
