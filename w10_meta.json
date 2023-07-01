@@ -8154,5 +8154,40 @@
         ]
       }
     }
+  },
+  "1.20.1.2": {
+    "Version": "1.20.1.2",
+    "Archs": {
+      "arm": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.102.0_arm__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "11c10388097266ec056385c3a787a39f",
+          "SHA256": "766e4c90f9f9f448fe0463148a1217b8fff2811479971be6a11d3c24941a8c10"
+        },
+        "UpdateIds": [
+          "8925b2d1-754f-49f4-9eac-b165392d762d"
+        ]
+      },
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.102.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "5c206c6812b7aab1242dea111095db4a",
+          "SHA256": "382524fb0ae157a00dfa938f043fd1ba1c17afeee3addb040dd88c4bb8b2a11e"
+        },
+        "UpdateIds": [
+          "38640519-dd50-4e80-8139-4607b7307761"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.102.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "54c89a1214bfdccf4ee308e4cd049db1",
+          "SHA256": "567852212222909960273107546ed73b83070d258091c00c64ecffe091a6c3bd"
+        },
+        "UpdateIds": [
+          "8e1df0ea-f886-4bde-a645-2d89d8ca9649"
+        ]
+      }
+    }
   }
 }
