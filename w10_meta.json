@@ -7735,8 +7735,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.19.5002.0_x64__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": "014cbd438fbf2cc9afe93b11f2517337",
-          "SHA256": "d4f73521335c9d5985e15e7a0fdd151ff3ab8a036722a2ad8205b76e2710e683"
+          "MD5": "53370b5215c3c378f4e958545660999c",
+          "SHA256": "9748acf0719b9eb39558bc5e4b15969e3d2e08c7588c8cbe71de570312f095ea"
         },
         "UpdateIds": [
           "fd864593-3673-4205-b5cd-d627156aeffd",
