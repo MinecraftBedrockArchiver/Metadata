@@ -8227,5 +8227,40 @@
         ]
       }
     }
+  },
+  "1.20.12.1": {
+    "Version": "1.20.12.1",
+    "Archs": {
+      "arm": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.1201.0_arm__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "b513a882-a151-452b-b2ed-353a25bf0137"
+        ]
+      },
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.1201.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "61fbf551b7ba6bca542aa9ec024428f9",
+          "SHA256": "db7ce7580c960b7ec69678f8df7221e6677e5b76c4230154bf42eb4d3b468363"
+        },
+        "UpdateIds": [
+          "8cd36a7b-2da0-4389-ad6e-06f975a336ca"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.1201.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "800f5de9890a92dcbba595de4f0f5dce",
+          "SHA256": "518e49089e4b8ebc48050fab3be7ba47a3717a96a8fcc6cef5f088d3db1a1d63"
+        },
+        "UpdateIds": [
+          "b86b013f-c611-4cca-abb3-9cf2f2b22b8e"
+        ]
+      }
+    }
   }
 }
