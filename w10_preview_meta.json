@@ -1974,8 +1974,8 @@
       "x86": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.20.3025.0_x86__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null
+          "MD5": "662d1705dfded8930ef928fe06705b67",
+          "SHA256": "900265bc69a38053d9438b0807bd7804055861c47306975f52bba6fb43a297de"
         },
         "UpdateIds": [
           "c7c2e615-4f5c-421e-b313-de26f4836cfa"
