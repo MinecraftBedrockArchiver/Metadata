@@ -315,5 +315,20 @@
         ]
       }
     }
+  },
+  "2023.1107.1857": {
+    "Version": "2023.1107.1857",
+    "Archs": {
+      "neutral": {
+        "FileName": "Microsoft.MinecraftEducationEdition_2023.1107.1857.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+        "Hashes": {
+          "MD5": "960341ef0a8d5e91f4a20292d2953aa9",
+          "SHA256": "14237838374e313f0ea59c39040d62295077bf6336c929cd506bb57bc4fcb8eb"
+        },
+        "UpdateIds": [
+          "fd0a05d6-bd0a-4e8e-925e-03a122b4d5de"
+        ]
+      }
+    }
   }
 }
