@@ -8475,8 +8475,9 @@
           "SHA256": "c9566deb8f3304373cbd470b44a1d751e6bf94d56bfa8bb8d8e876cedb41ee76"
         },
         "UpdateIds": [
-          "dd27bde8-8250-4aac-bdba-dd1613e65a65",
-          "7f5a050e-a03d-4acb-9f2c-5fa4dce88352"
+          "44f77e9b-aaa3-410e-afd3-97a8987e1087",
+          "7f5a050e-a03d-4acb-9f2c-5fa4dce88352",
+          "dd27bde8-8250-4aac-bdba-dd1613e65a65"
         ]
       },
       "x64": {
@@ -8486,8 +8487,9 @@
           "SHA256": "e5997eec5e6a6ca128a027d7027af78b04f777c31e42f1a2301c58d20a7735b1"
         },
         "UpdateIds": [
-          "985e76c0-558a-4bfb-b918-7bc4c2dd0a2c",
-          "01c280b1-675d-486d-b22b-12bc9c732b22"
+          "3554a37f-62f3-40df-ae07-6972db9d3cc4",
+          "01c280b1-675d-486d-b22b-12bc9c732b22",
+          "985e76c0-558a-4bfb-b918-7bc4c2dd0a2c"
         ]
       },
       "x86": {
@@ -8497,8 +8499,9 @@
           "SHA256": "51b3e721838e85b4db8390886ada29bd79f678bd05edfd7a1ff7495606405376"
         },
         "UpdateIds": [
-          "608f5f2d-d096-40f7-a142-9e7a004cf044",
-          "9c8c10bf-51b2-42c6-8498-9d33892d75a2"
+          "4aa5e666-3f6e-4af2-97f6-750002e56798",
+          "9c8c10bf-51b2-42c6-8498-9d33892d75a2",
+          "608f5f2d-d096-40f7-a142-9e7a004cf044"
         ]
       }
     }
