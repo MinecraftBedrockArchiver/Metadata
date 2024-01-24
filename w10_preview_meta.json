@@ -2419,5 +2419,30 @@
         ]
       }
     }
+  },
+  "1.20.70.20": {
+    "Version": "1.20.70.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.20.7020.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "d36ddfc1-1c0a-4994-b167-0f07239008ea"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.20.7020.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "2f7acc0bc1820e38f7e7437af622e554",
+          "SHA256": "3badbec4be00de2b1d4871b753833194b09f78a79abaab1e26d853ba2400557f"
+        },
+        "UpdateIds": [
+          "50e0f913-f69f-47ff-8736-5d358d0dcba6"
+        ]
+      }
+    }
   }
 }
