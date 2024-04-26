@@ -8767,6 +8767,7 @@
           "SHA256": "d784f222d352927d206b69dbac3d7061cdc4dd0f92b3ed416638b642ae84137e"
         },
         "UpdateIds": [
+          "2eac346a-8aab-4fe5-b48c-5b998a9b9abf",
           "21a42956-3a69-41ac-8cf3-6b93efbda1a4",
           "26e7abc8-fbc3-45b2-aafd-f83c591ae991"
         ]
@@ -8778,6 +8779,7 @@
           "SHA256": "40e3a9fb42e10612c16fd2cf29eee658c4c6d4d804a77dee47ef895a2a0e956f"
         },
         "UpdateIds": [
+          "59bb91c1-9e5d-4545-801f-d9ffc34de6d1",
           "f0a2837f-3ecb-462d-b3d4-0cf9b903c020",
           "1ead88d5-ebff-413a-be8a-71349421129b"
         ]
@@ -8789,8 +8791,47 @@
           "SHA256": "e03e348fb00b94e4ecb86adae8be12d7031a7e85ccde1bcb81a639bee5e71d35"
         },
         "UpdateIds": [
+          "3d59423f-1ba9-4539-8612-975f98606456",
           "9878f650-d4af-499b-81aa-211f4d78487e",
           "52e5174c-b0a4-4c74-a312-c7198cf41176"
+        ]
+      }
+    }
+  },
+  "1.20.80.5": {
+    "Version": "1.20.80.5",
+    "Archs": {
+      "arm": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.8005.0_arm__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "f838982a878821211e165d73f1a5d0a6",
+          "SHA256": "0fe89b039cc7888068fcb75bf2d73c680ee64040d0797f4ef526bbc0098ca7f6"
+        },
+        "UpdateIds": [
+          "25ab4462-d777-4e80-bc59-48bfd7703de7",
+          "2fc92005-3732-4c46-b5ef-555c3e49740f"
+        ]
+      },
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.8005.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "00cbf3c4c8a194119676950cf5c67f0b",
+          "SHA256": "beeaf7dddf76721741dc0d61f650d64b0eb9adc9cbb6352ba9529b9455ac53e7"
+        },
+        "UpdateIds": [
+          "6f2ca544-e31c-4916-b888-bb2815be4c84",
+          "ddc36e8c-1b81-49a5-bcb6-b76c3a160c25"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.20.8005.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "a37d3848ee71ea365a28560af5d8a9c1",
+          "SHA256": "6f811d85a35f616c304f7ac63c83e2b5fcb7910492783989822311c484018854"
+        },
+        "UpdateIds": [
+          "f6259b63-d00a-493b-a751-08c948cf536c",
+          "20c94a03-08f8-43a0-b1d2-b50047e63dce"
         ]
       }
     }
