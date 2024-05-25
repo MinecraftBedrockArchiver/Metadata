@@ -4,6 +4,5 @@
   "Xbox Preview": "xbox_preview_meta.json",
   "W10 Preview": "w10_preview_meta.json",
   "Edu": "edu_meta.json",
-  "Android-PE": "android-pe_meta.json",
-  "Android-Edu": "android-edu_meta.json"
+  "Edu Preview": "edu_preview_meta.json"
 }

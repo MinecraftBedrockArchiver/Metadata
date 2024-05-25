@@ -1,0 +1,17 @@
+{
+  "2024.328.2351": {
+    "Version": "2024.328.2351",
+    "Archs": {
+      "neutral": {
+        "FileName": "Microsoft.MinecraftEducationPreview_2024.328.2351.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+        "Hashes": {
+          "MD5": "946900545091ee97cbe355ad6f532d98",
+          "SHA256": "5f36904c6cd96a27310c66cc43bd2d38b6497fde36b5052a46ebd9cbc96b0212"
+        },
+        "UpdateIds": [
+          "397ffd26-8f34-4996-90bd-faad964d0b5a"
+        ]
+      }
+    }
+  }
+}
