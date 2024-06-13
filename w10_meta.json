@@ -8896,8 +8896,8 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.21.3.0_x64__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null
+          "MD5": "49ee16b378493e6e3e9630050f8ac4fb",
+          "SHA256": "8d5dfe17629a8d1fe43381f4b2f04fbaded227c4f64e7c4bbe60cacbb723a81f"
         },
         "UpdateIds": [
           "21c7d413-83d5-45de-b8b2-e9e6f87fb5fe"
