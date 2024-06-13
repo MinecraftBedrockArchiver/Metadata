@@ -8846,8 +8846,8 @@
           "SHA256": "c462c034bbbf3698a587b2602b3840b0177f23e2709d0e105e1f175d5d433a57"
         },
         "UpdateIds": [
-          "8d310f59-a438-401d-8f03-5b2dd9e73fa5",
           "a8eb1b00-ba9e-48eb-a221-e8fc4a2176f1",
+          "8d310f59-a438-401d-8f03-5b2dd9e73fa5",
           "cba24631-cdfe-471d-a0cb-27c911868cb6",
           "e1a43007-7f87-416d-880b-bbe9a95d19d1"
         ]
@@ -8859,8 +8859,8 @@
           "SHA256": "b7a1f0e53abc5de95b8e4b0842d33fed0fac84068369aef4004573d8752dbf5f"
         },
         "UpdateIds": [
-          "4a140945-d409-4971-bbe7-5f1e1a5a3b2e",
           "39b4a4c9-cd0a-49c2-971f-156aa4dbbc01",
+          "4a140945-d409-4971-bbe7-5f1e1a5a3b2e",
           "bad30c7a-75d7-4a7a-8b75-4a1d982cae61",
           "48f0d81e-0cc1-4e97-ab85-c9d3d24e848f"
         ]
@@ -8872,10 +8872,45 @@
           "SHA256": "d66499e852a6d317171feaa9ff590e13b64cb48d917a9fec3c9dddc4f57006c3"
         },
         "UpdateIds": [
-          "662902cc-5f0a-4534-817c-13f295662299",
           "8ea84991-a02a-40e0-9083-97e8803adc3d",
+          "662902cc-5f0a-4534-817c-13f295662299",
           "25ee6b38-0fd7-413c-87e6-db459671d0d8",
           "77470a6f-c57d-4965-aa63-5e55710e996d"
+        ]
+      }
+    }
+  },
+  "1.21.0.3": {
+    "Version": "1.21.0.3",
+    "Archs": {
+      "arm": {
+        "FileName": "Microsoft.MinecraftUWP_1.21.3.0_arm__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "56a57a6c1d97777b68274bf91b37be59",
+          "SHA256": "91a86cc3132bea4dbf6aed06f2ab217b773f45e81c974256ead14144796f2b9f"
+        },
+        "UpdateIds": [
+          "bc4907ab-3007-4113-b527-5337e5580762"
+        ]
+      },
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.21.3.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "21c7d413-83d5-45de-b8b2-e9e6f87fb5fe"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.21.3.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "c7f28d1ca4950f1c249b6f480d26d233",
+          "SHA256": "dcee6584c6189b08881f2d6232bc291bf0ed4423d5930224a2ce48a9d60562da"
+        },
+        "UpdateIds": [
+          "33495b04-d178-47b7-8d20-c8bf0e28cfac"
         ]
       }
     }
