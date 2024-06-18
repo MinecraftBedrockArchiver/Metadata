@@ -13,5 +13,20 @@
         ]
       }
     }
+  },
+  "2024.607.2219": {
+    "Version": "2024.607.2219",
+    "Archs": {
+      "neutral": {
+        "FileName": "Microsoft.MinecraftEducationPreview_2024.607.2219.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "a2606f3a-f452-4098-b544-4b49d5d124c9"
+        ]
+      }
+    }
   }
 }
