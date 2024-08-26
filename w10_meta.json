@@ -9079,8 +9079,8 @@
       "arm": {
         "FileName": "Microsoft.MinecraftUWP_1.21.2201.0_arm__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null
+          "MD5": "bd81f62af008c6b3b7ab37bd520f9243",
+          "SHA256": "c8501c6f6f1c3e3ffcccab60a6af5a606a40d126472a5156cefb1a4e074fcbfe"
         },
         "UpdateIds": [
           "ac36d2d5-0c5c-461c-9fbb-633d441de029"
