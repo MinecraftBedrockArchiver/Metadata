@@ -3348,5 +3348,280 @@
         ]
       }
     }
+  },
+  "1.21.50.24": {
+    "Version": "1.21.50.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5024.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "db9faf0e-52c0-4600-979e-9d251784a217"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5024.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "8fa5f474-0ec9-441a-8afe-e1e13ef27073"
+        ]
+      }
+    }
+  },
+  "1.21.50.25": {
+    "Version": "1.21.50.25",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5025.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "ef4de330-2359-4ae2-af2d-6cf6279f6b60"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5025.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "050cf43d-fce3-425c-8a9a-79e0a39e4a29"
+        ]
+      }
+    }
+  },
+  "1.21.50.26": {
+    "Version": "1.21.50.26",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5026.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "6c937c28-22da-4033-9f7f-f7ae28c6a2c5"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5026.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "3cf0df57-a6e3-4c24-904c-cd206c397925"
+        ]
+      }
+    }
+  },
+  "1.21.50.28": {
+    "Version": "1.21.50.28",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5028.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "a1d35bd4-0c05-463f-9370-78edcdd56af7"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5028.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "66dbd7f5-48b2-46e5-8819-19027f84af57"
+        ]
+      }
+    }
+  },
+  "1.21.50.29": {
+    "Version": "1.21.50.29",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5029.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "94660687-f733-4dde-bb46-f0c76a1ede58"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.5029.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "728be9a9-fb50-47bf-b95b-1c718f1df8c5"
+        ]
+      }
+    }
+  },
+  "1.21.60.21": {
+    "Version": "1.21.60.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6021.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "f85a073c-afcf-4425-a2b4-3e8438bdba5b"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6021.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "3dfc6c67-1aa3-47bb-a4fb-fdc6570aa979"
+        ]
+      }
+    }
+  },
+  "1.21.60.23": {
+    "Version": "1.21.60.23",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6023.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "6e1eaea0-b349-4448-b8d0-0398107e521a"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6023.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "1a85d4b7-e80a-4b0c-ae20-08c6ab86f4c5"
+        ]
+      }
+    }
+  },
+  "1.21.60.24": {
+    "Version": "1.21.60.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6024.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "f5a9d362-7b9d-488c-a1f5-7aa05fc0a7fa"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6024.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null
+        },
+        "UpdateIds": [
+          "aa637bf7-657c-4e6a-8e95-840de837f48c"
+        ]
+      }
+    }
+  },
+  "1.21.60.25": {
+    "Version": "1.21.60.25",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6025.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "077c8bb4193e5ef4a65e4f79b3ee007b",
+          "SHA256": "ddaa6c84a161eaa427f7bd6bcac6574a7e24d46519b4dc63dcbf7a1c9b7d3862"
+        },
+        "UpdateIds": [
+          "11186fd0-c4a2-4da6-8b25-74dab41acaf1"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6025.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "846e14c9a190a94ff79bf99cbfa1fb7d",
+          "SHA256": "6c17a16e97f21d7d1d559a5c8c9e48a430ae3e74849f3f1bd4746405040ab2b1"
+        },
+        "UpdateIds": [
+          "499c5a19-8f81-4723-9b88-7064d7841ba2"
+        ]
+      }
+    }
+  },
+  "1.21.70.20": {
+    "Version": "1.21.70.20",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.7020.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "0c7c4d1c699a05eb27a2ca7e10475213",
+          "SHA256": "d16063d065fd106af2b850b58140cbef62021da1e197d426df21ac5fc832008a"
+        },
+        "UpdateIds": [
+          "22deedff-5beb-4f8a-848d-33a588173637"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.7020.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "c64c4aeb6a3402101e5420a5524c1726",
+          "SHA256": "6409ae2893703454baffe06ecd35d433c4a6d25d4dbd5b94334e32210490295b"
+        },
+        "UpdateIds": [
+          "319235fd-f327-47b6-9a45-8fb05c32a104"
+        ]
+      }
+    }
+  },
+  "1.21.70.22": {
+    "Version": "1.21.70.22",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.7022.0_x64__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "6d8eb82999720f490c8863b64f8ea773",
+          "SHA256": "6e8e66aa653145e2c45b88399921ae55ba6936fa9ab28875f5c5526497112758"
+        },
+        "UpdateIds": [
+          "fa4bd43d-54cd-4545-8b77-5705fed08f16"
+        ]
+      },
+      "x86": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.21.7022.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "0b7e912405995a43a38d0bf662b23408",
+          "SHA256": "d142cf3038ad94c59300d8d51368472f2d3ffd4db8f92941e817eae93f571a9e"
+        },
+        "UpdateIds": [
+          "7d76b445-b928-457a-beb0-10bffbcef6d3"
+        ]
+      }
+    }
   }
 }
