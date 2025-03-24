@@ -456,6 +456,19 @@
       }
     }
   },
+  "1.1.1.51": {
+    "Version": "1.1.1.51",
+    "Archs": {
+      "x86": {
+        "FileName": "Microsoft.MinecraftUWP_1.1.151.0_x86__8wekyb3d8bbwe.Appx",
+        "Hashes": {
+          "MD5": "c61b0584bddc1964c815b78548e51561",
+          "SHA256": "7f55fdfef2f1dea91fbb2554d7d1044d2502ca310d273ebf9966961463be1dcd"
+        },
+        "UpdateIds": []
+      }
+    }
+  },
   "1.1.2.50": {
     "Version": "1.1.2.50",
     "Archs": {
