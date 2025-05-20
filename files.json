@@ -1,7 +1,5 @@
 {
   "W10": "w10_meta.json",
-  "Xbox": "xbox_meta.json",
-  "Xbox Preview": "xbox_preview_meta.json",
   "W10 Preview": "w10_preview_meta.json",
   "Edu": "edu_meta.json",
   "Edu Preview": "edu_preview_meta.json"
