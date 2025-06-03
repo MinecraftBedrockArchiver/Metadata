@@ -318,9 +318,9 @@
       "x64": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.19.27.0_x64__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": "d00614fbc2c9fd814808a8c8978ef74d",
-          "SHA256": "9ce70039f08ae9c3b8fefeb2a192f0d4e154a7f595e1e2f54cdec6c72d020a22",
-          "SHA1": null
+          "MD5": "0822d88174040c911833298da1f9c01e",
+          "SHA256": "6fb55356a4332c59e53c66dbe3efb555ccaee848479d767e643350269728d0aa",
+          "SHA1": "21226c36091a141b59184653229e52004cd31144"
         },
         "UpdateIds": [
           "6e4c1c50-3d50-4589-8504-eab4747b55e0"
