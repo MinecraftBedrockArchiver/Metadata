@@ -4471,9 +4471,9 @@
       "x64": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.21.10022.0_x64__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "5856f53a350f4ad337b27857c4ea3483",
+          "SHA256": "9c7e7883522955e66054c74b41460cbf37c1822e4a3274decbf97dc14c7e5ee2",
+          "SHA1": "073e821e3a13656de38835bc321b7bc87b001076"
         },
         "UpdateIds": [
           "260f0765-0b26-49cc-bb15-7298004ac7ad"
