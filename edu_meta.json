@@ -442,9 +442,9 @@
       "neutral": {
         "FileName": "Microsoft.MinecraftEducationEdition_2025.814.20.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "863ba4fe73ed7d54e0eaa0cd2984f48b",
+          "SHA256": "580b8253173fb14988d6e67f6ebcf6198a96cb328eeed2b55a18858cff15e716",
+          "SHA1": "d3d11a8d4e3689d54ef5985e9b8483ad7fc610b6"
         },
         "UpdateIds": [
           "56ff30b7-73c8-44ca-b278-e28db0c28342"
