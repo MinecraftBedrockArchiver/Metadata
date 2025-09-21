@@ -1,0 +1,338 @@
+{
+  "1.0.0.66": {
+    "Version": "1.0.0.66",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.66.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "147e95fcf21fc9f1b7955e7d5bc383c7",
+          "SHA256": "28cfc4ec2176c0ba9ac81f211e67c16c2e9f04df481ffe3ba2e661b86246744d",
+          "SHA1": "3c812db86646f033104d69e1c57ba0dae2fd729e"
+        },
+        "UpdateIds": [
+          "1.0.66.0.1e8c9c87-11c9-4d58-8283-ea1e43a1551b"
+        ]
+      }
+    }
+  },
+  "1.0.0.92": {
+    "Version": "1.0.0.92",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.92.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "22560c0952eac8070f9a84c85b5f1393",
+          "SHA256": "32e57583855a469585e197022bdf8ba59a36a46cdfd2b535411612a57149b8c5",
+          "SHA1": "cb07322b31a27a57678f0fa393df9559eed1427c"
+        },
+        "UpdateIds": [
+          "1.0.92.0.c6912d06-f489-4c4f-a7e9-e5332bdd5519"
+        ]
+      }
+    }
+  },
+  "1.0.0.97": {
+    "Version": "1.0.0.97",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.97.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "d1b5f58c8bd999d740990ec495d4eeaf",
+          "SHA256": "60caf7e51e231e748cdf5b468d35a5088acb73197115d5ca61ed4d9f5ccb5f18",
+          "SHA1": "5f0e3e1121bf73cdf5a9f45169baae1039739b97"
+        },
+        "UpdateIds": [
+          "1.0.97.0.8bf5b0a6-a638-4bd4-a630-268ccffc003e"
+        ]
+      }
+    }
+  },
+  "1.0.1.4": {
+    "Version": "1.0.1.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.104.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "9a81089382dda5fc04806bd218fe6282",
+          "SHA256": "9fc4ff44b6c1262a74ef6c505ef27b073161a6faec797ad740774e2e03aeb072",
+          "SHA1": "c70c1bf3a3e39f8583a1f56f282d709c4cc70461"
+        },
+        "UpdateIds": [
+          "1.0.104.0.db25f0e2-5e28-4d01-9ecd-ab82c5b532fd"
+        ]
+      }
+    }
+  },
+  "1.0.1.13": {
+    "Version": "1.0.1.13",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.113.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "87001b57a974037564220e947955a2a7",
+          "SHA256": "8d463f1a97614bebedd70af625161e52cbf929d27595ce9fbe45bd5196232098",
+          "SHA1": "bbd199aaec9fb86174fc1c640d11731105eae6ec"
+        },
+        "UpdateIds": [
+          "1.0.113.0.06c9111b-9f72-43fa-a386-70ab374b37ec"
+        ]
+      }
+    }
+  },
+  "1.0.1.41": {
+    "Version": "1.0.1.41",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.141.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "145de3fe991ef0530d9507c78664a347",
+          "SHA256": "d6d9d37490186e3ee3a9773b9c3c4bb8180ad7268cfc504d806606cb7b455fa3",
+          "SHA1": "56263ad2285fe6fb48bca16549a9b13c681d2474"
+        },
+        "UpdateIds": [
+          "1.0.141.0.bb3575cd-0e8a-4f03-8356-8d8f26e672c0"
+        ]
+      }
+    }
+  },
+  "1.0.1.59": {
+    "Version": "1.0.1.59",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.0.159.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "79adf105f6e42651172f0d2b0c47d62b",
+          "SHA256": "76bd02efa2b48c1334482111464b828ffb6bb53844632fa63278953ef85b7a4b",
+          "SHA1": "0e904890ebb2706a33f34e0201e68ee499386406"
+        },
+        "UpdateIds": [
+          "1.0.159.0.0ebb9f23-e31e-4e6e-8e37-7a72209831d3"
+        ]
+      }
+    }
+  },
+  "1.1.0.7": {
+    "Version": "1.1.0.7",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.1.7.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "95bbf7618c31f56c8f0ae4a5c68fafaf",
+          "SHA256": "8468dbaaa36697383fb68d3356ca1ef43fdcc5611de4a3585b5092573422d141",
+          "SHA1": "6f8913c5f1000c513c5c3f2fe04dfacd71e1614c"
+        },
+        "UpdateIds": [
+          "1.1.7.0.4a4a40c1-f699-4430-9dc7-63dac57815a5"
+        ]
+      }
+    }
+  },
+  "1.1.0.15": {
+    "Version": "1.1.0.15",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.1.15.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "fd3a4aa0140e3cd3e9984f79f350f73a",
+          "SHA256": "79e008727d8fabef8381fe0a83f163c0e0b004ef50edd5e30d34ee601458965d",
+          "SHA1": "b654954fa6771ed13e23bce745618685a69857d3"
+        },
+        "UpdateIds": [
+          "1.1.15.0.42870928-1689-455f-8c32-a37888c47820"
+        ]
+      }
+    }
+  },
+  "1.1.0.17": {
+    "Version": "1.1.0.17",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.1.17.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "873b194158185122da4f7c296066dd14",
+          "SHA256": "8658e807b6195436a6b824c1706f800cb71db24a078ce6e5abd05af047520a3b",
+          "SHA1": "5b5376f2092e3093e2bc37899f2f1cc2c6ec065f"
+        },
+        "UpdateIds": [
+          "1.1.17.0.2618d9fb-e129-4409-bcdb-1855dd36e4a3"
+        ]
+      }
+    }
+  },
+  "1.1.0.21": {
+    "Version": "1.1.0.21",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.1.21.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "8a79aceead825f49b67286f69c6badc3",
+          "SHA256": "e5475bec1bdf2254bd053fe2f23604a32e7943c59ce50fbf561d6b1e7e9b818d",
+          "SHA1": "ed1d092068297ef3622bd84eea749a2acb584674"
+        },
+        "UpdateIds": [
+          "1.1.21.0.b29ca7c5-ca4e-44e7-aee7-1fdd003da789"
+        ]
+      }
+    }
+  },
+  "1.1.0.28": {
+    "Version": "1.1.0.28",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.1.28.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "88a95407b1020c6a02331954ef126abb",
+          "SHA256": "05fecd2000e4659945f92daa785dac0a5fc91ce03fb3451f6a4038a33565bdc1",
+          "SHA1": "cf8ab8345d8db5f3dd0229e13364fcd9536dd9ac"
+        },
+        "UpdateIds": [
+          "1.1.28.0.2f66eebc-87ef-42b7-b1a6-1b38626d0afd"
+        ]
+      }
+    }
+  },
+  "1.2.0.4": {
+    "Version": "1.2.0.4",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.2.4.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "7fa29536afed75a3162d510fa63ac7c2",
+          "SHA256": "15e0a3c7235dab54adccfa57bd685727f12fbd10e155630999ba1cf8a8a95e69",
+          "SHA1": "eb609628d4c1bcf8b1494704dacef566e6b3268a"
+        },
+        "UpdateIds": [
+          "1.2.4.0.296b217c-8a6b-44e6-9e63-e1c1ae862566"
+        ]
+      }
+    }
+  },
+  "1.2.0.16": {
+    "Version": "1.2.0.16",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.2.16.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "9bd356f8fa49b6c70de426d9929ffce5",
+          "SHA256": "f21ac178f9f694fb9e936c0b89a8e85f2226284567ef64baa3fc54def5dc719e",
+          "SHA1": "fa80032a7f09a81afa684bc4473cda9a6ac87ea2"
+        },
+        "UpdateIds": [
+          "/1.2.16.0.91c4ef3f-d8a2-462f-b01b-16bc58e90af1"
+        ]
+      }
+    }
+  },
+  "1.3.0.2": {
+    "Version": "1.3.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.3.2.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "a7107a39db307178ce9ede40dc149b92",
+          "SHA256": "916ef0a30666d902067c5a9300bf226f910f7341f685ea54d2051ca5d45131b0",
+          "SHA1": "e307a21c11f48fef0b674f2e6bf5634800b47c03"
+        },
+        "UpdateIds": [
+          "1.3.2.0.35e6f09d-14c3-440d-be00-0e8402eabd0c"
+        ]
+      }
+    }
+  },
+  "1.3.0.7": {
+    "Version": "1.3.0.7",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.3.7.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "d0586c44d227c8d36353c55d817b530d",
+          "SHA256": "b5710c179521de31cc9c409a84eeef9fad3f1f835f326135d20ed27d2b3499a6",
+          "SHA1": "3457873a4d0d4b490aceb817921f75faf5e7298b"
+        },
+        "UpdateIds": [
+          "1.3.7.0.28fb86af-e687-44d7-a0a6-575a50ccddcc"
+        ]
+      }
+    }
+  },
+  "1.7.0.2": {
+    "Version": "1.7.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.7.2.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null,
+          "SHA1": null
+        },
+        "UpdateIds": [
+          "1.7.2.0.868b5fee-7a2a-46c6-8ea2-dd3eca9a0253"
+        ]
+      }
+    }
+  },
+  "1.11.0.6": {
+    "Version": "1.11.0.6",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_1.11.6.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null,
+          "SHA1": null
+        },
+        "UpdateIds": [
+          "1.11.6.0.2f816e2d-d9f4-440c-bdea-1c0958e19588"
+        ]
+      }
+    }
+  },
+  "2.0.0.16": {
+    "Version": "2.0.0.16",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_2.0.16.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null,
+          "SHA1": null
+        },
+        "UpdateIds": [
+          "2.0.16.0.587a580d-dbc6-4b9b-8c27-590bac2821cd"
+        ]
+      }
+    }
+  },
+  "2.1.0.3": {
+    "Version": "2.1.0.3",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_2.1.3.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null,
+          "SHA1": null
+        },
+        "UpdateIds": [
+          "2.1.3.0.0df16ddb-144a-4ab9-92ce-336f8bc0bdaa"
+        ]
+      }
+    }
+  },
+  "2.2.0.2": {
+    "Version": "2.2.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_2.2.2.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "f76273fa8dcffc4608240148c1c01584",
+          "SHA256": "e11079b7148a690425e4ad87c66c821224aab9992f3629588e27a0dff3ce90de",
+          "SHA1": "c7da4dbe416fe12ff98125d1eaf120e888a19d1e"
+        },
+        "UpdateIds": [
+          "2.2.2.0.865dd841-7980-42ba-8edf-4465962a3d0b"
+        ]
+      }
+    }
+  }
+}
