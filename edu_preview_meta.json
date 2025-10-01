@@ -79,5 +79,21 @@
         ]
       }
     }
+  },
+  "2025.911.158": {
+    "Version": "2025.911.158",
+    "Archs": {
+      "neutral": {
+        "FileName": "Microsoft.MinecraftEducationPreview_2025.911.158.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+        "Hashes": {
+          "MD5": "7ae347e1fd3e3eec9b577e95d7501800",
+          "SHA256": "c9da840968a80f4a97cff2e41ac5bdc6cef253f9cfffe2397ee4df899ab303b5",
+          "SHA1": "50073663fc2b094e7f4c64ee0d4a0a605de99d99"
+        },
+        "UpdateIds": [
+          "4e9968a4-3b75-4035-bc5f-559008d3d62b"
+        ]
+      }
+    }
   }
 }
