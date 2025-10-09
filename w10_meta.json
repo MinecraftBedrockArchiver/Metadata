@@ -10788,9 +10788,9 @@
       "x86": {
         "FileName": "Microsoft.MinecraftUWP_1.21.11301.0_x86__8wekyb3d8bbwe.Appx",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "555ecb59671d0a6960f8bfd7cdc02385",
+          "SHA256": "ed99586f6708acb5fec2c568f62dc6749013af07f79b3cfacd9bf4fdd89ed8d6",
+          "SHA1": "813a82e4f0b090e2d3fa299cd83c10eb11b09627"
         },
         "UpdateIds": [
           "9699ab9d-bfd0-4058-9bcc-db4a3ee8724e"
