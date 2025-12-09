@@ -334,5 +334,21 @@
         ]
       }
     }
+  },
+  "2.5.0.2": {
+    "Version": "2.5.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_2.5.2.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "12d239cacf68ac069d47ec9c7dd614ce",
+          "SHA256": "96dcc1fc3da2bf28cef5672b917cf0ffc99648c96755c365a2999d75610da4dc",
+          "SHA1": "ec22557f09096c7f3ff85823321562d76a17a0e2"
+        },
+        "UpdateIds": [
+          "2.5.2.0.ba754cf6-f590-421b-aa53-95b075498a84"
+        ]
+      }
+    }
   }
 }
