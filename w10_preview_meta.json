@@ -5072,5 +5072,21 @@
         ]
       }
     }
+  },
+  "1.26.10.24": {
+    "Version": "1.26.10.24",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.26.1024.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "2ebb78d498d510e1d445b6ba272dcf8a",
+          "SHA256": "82389504fd2529b0de949ff8f9151dfca9aaf4b384aa2517d23e551593e8e54b",
+          "SHA1": "3d4c590528285cc2a167ec09b273cf0e3b08df69"
+        },
+        "UpdateIds": [
+          "1.26.1024.0.1d0d3da5-f2ff-4b78-8c4d-86d923c39e52"
+        ]
+      }
+    }
   }
 }
