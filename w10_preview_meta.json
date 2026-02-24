@@ -5095,9 +5095,9 @@
       "x64": {
         "FileName": "Microsoft.MinecraftWindowsBeta_1.26.1025.0_x64__8wekyb3d8bbwe.msixvc",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "c17153d7d5c1326bf1cb95d89c6cb330",
+          "SHA256": "0f788bc9a462048350e370158518568f8bb42db273062935dbd27299b7a20c74",
+          "SHA1": "1ef790b80099be829d4da79433bf426ba228d58b"
         },
         "UpdateIds": [
           "1.26.1025.0.2935f014-d6ab-4642-b823-0708f067b8ef"
