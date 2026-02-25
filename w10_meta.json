@@ -10995,9 +10995,9 @@
       "x64": {
         "FileName": "MICROSOFT.MINECRAFTUWP_1.26.201.0_x64__8wekyb3d8bbwe.msixvc",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "672652c501b8c193ddee25e15aa31ef6",
+          "SHA256": "eb372f839bb3840a35bc8ebbeba5548aeeae6e5a336ddc037b836fc9a3593020",
+          "SHA1": "21f469a6aafef775b87274fb96d90f51cafdce62"
         },
         "UpdateIds": [
           "1.26.201.0.11070394-f51c-4507-b7fa-bea75db3686e"
