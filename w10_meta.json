@@ -11068,5 +11068,21 @@
         ]
       }
     }
+  },
+  "1.26.13.1": {
+    "Version": "1.26.13.1",
+    "Archs": {
+      "x64": {
+        "FileName": "MICROSOFT.MINECRAFTUWP_1.26.1301.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "b8c3bb7561e743980a3fd5ed93e2ec0f",
+          "SHA256": "771b8549faa92d33a1907d47b616ccb01145de9c59a4e1501e8e2d5161859811",
+          "SHA1": "63aacdeb8e6970cecd06701fb4cb8cef2d354dea"
+        },
+        "UpdateIds": [
+          "1.26.1301.0.d1ab3d8f-97a1-4f11-aced-db32fbdb2c6d"
+        ]
+      }
+    }
   }
 }
