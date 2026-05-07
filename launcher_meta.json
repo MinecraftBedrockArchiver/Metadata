@@ -350,5 +350,21 @@
         ]
       }
     }
+  },
+  "2.6.0.2": {
+    "Version": "2.6.0.2",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.4297127D64EC6_2.6.2.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "8e3e6f768e7f4b2b7647f329fdd42b19",
+          "SHA256": "009db082cadf35e60cd8346135d104016357234155c4524ec9a0110a29c11837",
+          "SHA1": "a4d3880af6c05741c546db56b121e6e0e500e7d0"
+        },
+        "UpdateIds": [
+          "2.6.2.0.a23b70a2-2e1f-49c2-8943-a84f5a1e8ea1"
+        ]
+      }
+    }
   }
 }
