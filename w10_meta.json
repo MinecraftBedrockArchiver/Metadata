@@ -11180,5 +11180,21 @@
         ]
       }
     }
+  },
+  "1.26.40.5": {
+    "Version": "1.26.40.5",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "ed596f043f77a602f0067bb97ede8899",
+          "SHA256": "80618a768ee1d7030a6e24e526da74360365e006903387caa8ed46d01823708f",
+          "SHA1": "975905122b718fadba5a0a013b0dfe4948aee731"
+        },
+        "UpdateIds": [
+          "1.26.4005.0.83783483-13d7-40ad-9b03-3e88d66c2fb0"
+        ]
+      }
+    }
   }
 }
