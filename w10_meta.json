@@ -11203,9 +11203,9 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.26.4201.0_x64__8wekyb3d8bbwe.msixvc",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "2896d795878490d0eb6ef725c0dcde8e",
+          "SHA256": "e6b6b7b56939afa64b9fe8fef5988daa2f12707b56231b9dde890ae5b7557155",
+          "SHA1": "e86994052b03f0e3ff6cda7d12f637401641b4cf"
         },
         "UpdateIds": [
           "1.26.4201.0.4f921154-8a2b-4389-a280-5edeb8dd85fd"
