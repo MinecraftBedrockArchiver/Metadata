@@ -11331,9 +11331,9 @@
       "x64": {
         "FileName": "Microsoft.MinecraftUWP_1.26.6301.0_x64__8wekyb3d8bbwe.msixvc",
         "Hashes": {
-          "MD5": null,
-          "SHA256": null,
-          "SHA1": null
+          "MD5": "0a51108fc1bb2de066a0cadb796da0d6",
+          "SHA256": "7ed90587094daeb944132b15e7f153c3d831a279e60151cbb992f5948070da7e",
+          "SHA1": "1cf91fc764f3eba00bec1ac719ddcb2e50634b93"
         },
         "UpdateIds": [
           "1.26.6301.0.6564cd0c-e7b4-4a07-81ca-d1811a540b1e"
