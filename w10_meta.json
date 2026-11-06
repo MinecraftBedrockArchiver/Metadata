@@ -11324,5 +11324,21 @@
         ]
       }
     }
+  },
+  "1.26.63.1": {
+    "Version": "1.26.63.1",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftUWP_1.26.6301.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": null,
+          "SHA256": null,
+          "SHA1": null
+        },
+        "UpdateIds": [
+          "1.26.6301.0.6564cd0c-e7b4-4a07-81ca-d1811a540b1e"
+        ]
+      }
+    }
   }
 }
